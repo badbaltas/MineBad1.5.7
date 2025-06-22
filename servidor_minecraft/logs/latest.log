@@ -1526,3 +1526,25 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [09:30:16] [Server thread/INFO]: Villager class_1646['Shepherd'/57251, l='ServerLevel[world]', x=-16643.30, y=-65.00, z=-19333.50] died, message: 'Shepherd was killed'
 [09:30:16] [Server thread/INFO]: Villager class_1646['Librarian'/57252, l='ServerLevel[world]', x=-16641.76, y=-65.00, z=-19330.54] died, message: 'Librarian was killed'
 [09:30:19] [Worker-Main-4/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[09:32:51] [Worker-Main-5/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[09:33:13] [Server thread/INFO]: Villager class_1646['Leatherworker'/58743, l='ServerLevel[world]', x=-16087.30, y=-65.00, z=-19376.50] died, message: 'Leatherworker was killed'
+[09:36:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26562ms or 531 ticks behind
+[09:37:19] [Worker-Main-7/WARN]: Empty or non-existent pool: minecraft:
+[09:37:19] [Worker-Main-7/WARN]: Empty or non-existent pool: minecraft:
+[09:37:19] [Worker-Main-7/WARN]: Empty or non-existent pool: minecraft:
+[09:37:19] [Worker-Main-7/WARN]: Empty or non-existent pool: minecraft:
+[09:37:19] [Worker-Main-7/WARN]: Empty or non-existent pool: minecraft:
+[09:37:30] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[09:37:33] [Server thread/INFO]: badbalta lost connection: Timed out
+[09:37:33] [Server thread/INFO]: badbalta left the game
+[09:37:33] [Server thread/WARN]: handleDisconnection() called twice
+[09:37:58] [Server thread/INFO]: badbalta[/127.229.251.177:36133] logged in with entity id 60853 at (-2071.5092916023423, 82.0, -2442.8484113453687)
+[09:37:58] [Server thread/INFO]: Loading config from file...
+[09:37:58] [Server thread/INFO]: badbalta joined the game
+[09:38:02] [Server thread/INFO]: Villager class_1646['Cartographer'/60991, l='ServerLevel[world]', x=-1889.00, y=-65.00, z=-2336.53] died, message: 'Cartographer was killed'
+[09:38:22] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[09:38:22] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[09:38:22] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[09:38:22] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[09:40:51] [Worker-Main-5/ERROR]: Hanging entity at invalid position: class_2338{x=-164, y=-1, z=-74}
+[09:40:51] [Worker-Main-5/ERROR]: Hanging entity at invalid position: class_2338{x=-164, y=-1, z=-77}
