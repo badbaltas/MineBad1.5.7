@@ -1567,3 +1567,30 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [10:30:23] [Server thread/INFO]: [badbalta: Killed badbalta]
 [10:30:29] [Server thread/INFO]: SimonPro74 was killed
 [10:30:29] [Server thread/INFO]: [badbalta: Killed SimonPro74]
+[10:36:07] [Server thread/INFO]: Villager class_1646['Cartographer'/84881, l='ServerLevel[world]', x=702.32, y=90.00, z=-8308.56] died, message: 'Cartographer was burned to a crisp while fighting SimonPro74'
+[10:48:12] [Server thread/INFO]: badbalta drowned
+[10:50:38] [Server thread/INFO]: badbalta was killed
+[10:50:38] [Server thread/INFO]: [badbalta: Killed badbalta]
+[10:54:23] [Server thread/INFO]: SimonPro74 lost connection: Disconnected
+[10:54:23] [Server thread/INFO]: SimonPro74 left the game
+[10:54:42] [Server thread/INFO]: badbalta lost connection: Disconnected
+[10:54:42] [Server thread/INFO]: badbalta left the game
+[10:54:55] [Server thread/INFO]: [Not Secure] [Server] hola
+[10:54:59] [Server thread/INFO]: Stopping the server
+[10:54:59] [Server thread/INFO]: Stopping server
+[10:54:59] [Server thread/INFO]: Saving players
+[10:54:59] [Server thread/INFO]: Saving worlds
+[10:54:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10:54:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[10:54:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[10:54:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[10:54:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:54:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:54:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[10:54:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:54:59] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[10:55:00] [Server thread/INFO]: Unloading server config for barteringstation
+[10:55:00] [Server thread/INFO]: Unloading server config for easyanvils
+[10:55:00] [Server thread/INFO]: Unloading server config for easymagic
+[10:55:00] [Server thread/INFO]: Unloading server config for hangglider
+[10:55:00] [Server thread/INFO]: Unloading server config for iteminteractions
