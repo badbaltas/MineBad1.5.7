@@ -1548,3 +1548,13 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [09:38:22] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
 [09:40:51] [Worker-Main-5/ERROR]: Hanging entity at invalid position: class_2338{x=-164, y=-1, z=-74}
 [09:40:51] [Worker-Main-5/ERROR]: Hanging entity at invalid position: class_2338{x=-164, y=-1, z=-77}
+[09:42:45] [Server thread/INFO]: Named entity class_1545['Desert Blaze'/63035, l='ServerLevel[world]', x=-2156.30, y=41.30, z=-2569.70] died: Desert Blaze was slain by badbalta using [Drevol Nâr]
+[09:44:37] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[09:45:24] [Server thread/INFO]: Named entity class_1545['Desert Blaze'/64763, l='ServerLevel[world]', x=-2073.21, y=69.58, z=-2725.84] died: Desert Blaze was slain by badbalta using [Drevol Nâr]
+[09:45:28] [Server thread/INFO]: badbalta has completed the challenge [Border of Life]
+[09:45:28] [Server thread/INFO]: Named entity class_1545['Desert Blaze'/64762, l='ServerLevel[world]', x=-2077.70, y=67.82, z=-2715.30] died: Desert Blaze was slain by badbalta using [Drevol Nâr]
+[09:45:42] [Server thread/INFO]: Named entity class_1545['Desert Blaze'/64764, l='ServerLevel[world]', x=-2082.69, y=68.65, z=-2726.51] died: Desert Blaze was slain by badbalta using [Drevol Nâr]
+[09:45:45] [Server thread/INFO]: Named entity class_1545['Desert Blaze'/64512, l='ServerLevel[world]', x=-2089.67, y=68.09, z=-2725.16] died: Desert Blaze was slain by badbalta using [Drevol Nâr]
+[09:47:46] [Server thread/INFO]: Named entity class_1545['Desert Blaze'/63313, l='ServerLevel[world]', x=-2009.70, y=65.92, z=-2750.06] died: Desert Blaze was slain by badbalta using [Drevol Nâr]
+[09:48:57] [Server thread/INFO]: Named entity class_1545['Desert Blaze'/63436, l='ServerLevel[world]', x=-2004.40, y=75.00, z=-2753.05] died: Desert Blaze was slain by badbalta using [Drevol Nâr]
+[09:51:14] [Server thread/INFO]: Named entity class_1545['Desert Blaze'/66221, l='ServerLevel[world]', x=-1991.80, y=64.70, z=-2757.66] died: Desert Blaze was slain by badbalta using [Drevol Nâr]
