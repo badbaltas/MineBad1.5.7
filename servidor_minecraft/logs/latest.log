@@ -1560,3 +1560,4 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [09:51:14] [Server thread/INFO]: Named entity class_1545['Desert Blaze'/66221, l='ServerLevel[world]', x=-1991.80, y=64.70, z=-2757.66] died: Desert Blaze was slain by badbalta using [Drevol Nâr]
 [09:56:40] [Server thread/INFO]: badbalta was killed
 [09:56:40] [Server thread/INFO]: [badbalta: Killed badbalta]
+[10:10:05] [Server thread/INFO]: [badbalta: Teleported badbalta to 736.500000, 96.500000, -8275.500000]
