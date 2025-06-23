@@ -864,3 +864,21 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [21:15:15] [Server thread/INFO]: badbalta joined the game
 [21:15:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2755ms or 55 ticks behind
 [21:26:16] [Server thread/INFO]: [Not Secure] [Server] hola
+[22:26:18] [Server thread/INFO]: Named entity class_1545['Desert Blaze'/16112, l='ServerLevel[world]', x=-159.40, y=15.00, z=-1692.06] died: Desert Blaze was slain by badbalta using [Drevol Nâr]
+[22:26:20] [Server thread/INFO]: Named entity class_1545['Desert Blaze'/16113, l='ServerLevel[world]', x=-158.30, y=15.20, z=-1701.53] died: Desert Blaze was slain by badbalta using [Drevol Nâr]
+[22:27:54] [Server thread/INFO]: Named entity class_1545['Desert Blaze'/15975, l='ServerLevel[world]', x=-146.04, y=15.00, z=-1665.93] died: Desert Blaze was slain by badbalta using [Drevol Nâr]
+[22:34:17] [Server thread/INFO]: [Not Secure] [Server]  hola
+[22:36:49] [Server thread/INFO]: Named entity class_1545['Desert Blaze'/21792, l='ServerLevel[world]', x=-220.66, y=15.00, z=-1681.69] died: Desert Blaze was slain by badbalta using [Drevol Nâr]
+[22:36:51] [Server thread/INFO]: Named entity class_1545['Desert Blaze'/21789, l='ServerLevel[world]', x=-224.72, y=15.15, z=-1683.66] died: Desert Blaze was slain by badbalta using [Drevol Nâr]
+[22:36:54] [Server thread/INFO]: Named entity class_1545['Desert Blaze'/21790, l='ServerLevel[world]', x=-227.72, y=15.00, z=-1683.05] died: Desert Blaze was slain by badbalta using [Drevol Nâr]
+[22:36:57] [Server thread/INFO]: Named entity class_1545['Desert Blaze'/21791, l='ServerLevel[world]', x=-217.33, y=15.20, z=-1680.30] died: Desert Blaze was slain by badbalta using [Drevol Nâr]
+[22:40:36] [Server thread/INFO]: Named entity class_1545['Desert Blaze'/23903, l='ServerLevel[world]', x=-219.76, y=15.00, z=-1708.37] died: Desert Blaze was slain by badbalta using [Drevol Nâr]
+[22:40:40] [Server thread/INFO]: Named entity class_1545['Desert Blaze'/23904, l='ServerLevel[world]', x=-239.12, y=15.20, z=-1711.70] died: Desert Blaze was slain by badbalta using [Drevol Nâr]
+[22:40:43] [Server thread/INFO]: Named entity class_1545['Desert Blaze'/23905, l='ServerLevel[world]', x=-228.69, y=15.20, z=-1704.30] died: Desert Blaze was slain by badbalta using [Drevol Nâr]
+[22:40:47] [Server thread/INFO]: Named entity class_1545['Desert Blaze'/23902, l='ServerLevel[world]', x=-243.96, y=15.20, z=-1711.70] died: Desert Blaze was slain by badbalta using [Drevol Nâr]
+[22:44:08] [Server thread/INFO]: badbalta lost connection: Timed out
+[22:44:08] [Server thread/INFO]: badbalta left the game
+[22:44:08] [Server thread/WARN]: handleDisconnection() called twice
+[22:44:37] [Server thread/INFO]: badbalta[/127.129.91.1:59149] logged in with entity id 26637 at (-172.30868132632904, 15.0, -1703.5228593413597)
+[22:44:37] [Server thread/INFO]: Loading config from file...
+[22:44:37] [Server thread/INFO]: badbalta joined the game
