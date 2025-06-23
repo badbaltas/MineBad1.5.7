@@ -1585,3 +1585,8 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [20:24:53] [Server thread/INFO]: [badbalta: Killed SimonPro74]
 [20:26:08] [Server thread/INFO]: SimonPro74 lost connection: Timed out
 [20:26:08] [Server thread/INFO]: SimonPro74 left the game
+[20:33:37] [Server thread/INFO]: SimonPro74[/127.129.91.1:53767] logged in with entity id 65763 at (729.3847443471404, 100.0, -8294.776665155676)
+[20:33:37] [Server thread/INFO]: Loading config from file...
+[20:33:37] [Server thread/INFO]: SimonPro74 joined the game
+[20:38:00] [Server thread/WARN]: badbalta moved too quickly! 8.727953604590539,-3.766367993957516,3.2744789458884043
+[20:39:14] [Server thread/WARN]: SimonPro74 moved too quickly! 0.011746759383981953,-1.9642517098257741,-10.149082650137643
