@@ -1595,3 +1595,15 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [20:49:52] [Server thread/INFO]: [badbalta: Killed badbalta]
 [20:50:20] [Server thread/INFO]: [badbalta: Teleported badbalta to SimonPro74]
 [20:51:43] [Server thread/INFO]: SimonPro74 has reached the goal [You Need a Mint]
+[20:52:10] [Server thread/INFO]: badbalta has made the advancement [Withering Heights]
+[20:52:10] [Server thread/INFO]: SimonPro74 has made the advancement [Withering Heights]
+[20:52:35] [Server thread/INFO]: SimonPro74 has made the advancement [A Throwaway Joke]
+[20:54:27] [Server thread/INFO]: [badbalta: Gave 3 [Wither Skeleton Skull] to SimonPro74]
+[20:56:59] [Server thread/INFO]: badbalta was killed
+[20:56:59] [Server thread/INFO]: [badbalta: Killed badbalta]
+[20:57:09] [Server thread/INFO]: SimonPro74 was killed
+[20:57:09] [Server thread/INFO]: [badbalta: Killed SimonPro74]
+[20:58:35] [Server thread/INFO]: [badbalta: Teleported badbalta to SimonPro74]
+[20:59:00] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[20:59:16] [Server thread/INFO]: SimonPro74 hit the ground too hard
+[20:59:35] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]

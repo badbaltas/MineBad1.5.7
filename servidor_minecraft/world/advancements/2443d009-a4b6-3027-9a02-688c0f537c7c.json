@@ -735,6 +735,7 @@
       "minecraft:spider": "2025-06-03 21:06:12 +0000",
       "minecraft:piglin_brute": "2025-06-05 23:19:57 +0000",
       "minecraft:creeper": "2025-06-03 20:54:39 +0000",
+      "minecraft:wither": "2025-06-23 20:56:39 +0000",
       "minecraft:slime": "2025-06-04 19:52:34 +0000",
       "minecraft:evoker": "2025-06-21 21:19:54 +0000",
       "minecraft:phantom": "2025-06-15 05:26:32 +0000",
@@ -11263,6 +11264,30 @@
   "minecraft:recipes/misc/creeper_banner_pattern": {
     "criteria": {
       "has_creeper_head": "2025-06-23 20:24:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2025-06-23 20:52:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-06-23 20:52:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-06-23 20:51:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-06-23 20:56:39 +0000"
     },
     "done": true
   },

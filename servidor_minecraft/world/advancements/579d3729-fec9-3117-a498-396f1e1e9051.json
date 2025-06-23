@@ -620,6 +620,7 @@
       "minecraft:spider": "2025-06-04 18:15:07 +0000",
       "minecraft:piglin_brute": "2025-06-05 23:19:49 +0000",
       "minecraft:creeper": "2025-06-03 20:50:27 +0000",
+      "minecraft:wither": "2025-06-23 20:53:15 +0000",
       "minecraft:slime": "2025-06-04 19:52:39 +0000",
       "minecraft:evoker": "2025-06-14 04:36:52 +0000",
       "minecraft:phantom": "2025-06-05 21:55:35 +0000",
@@ -12151,6 +12152,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-06-23 20:52:10 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/clear_glass_purple_pane2": {
     "criteria": {
       "recipe_condition2": "2025-06-23 20:40:14 +0000"
@@ -12184,6 +12191,12 @@
   "travelersbackpack:recipes/building_blocks/dye_purple_sleeping_bag": {
     "criteria": {
       "has_needed_dye": "2025-06-23 20:40:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-06-23 20:53:18 +0000"
     },
     "done": true
   },
