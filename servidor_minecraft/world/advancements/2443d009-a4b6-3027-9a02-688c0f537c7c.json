@@ -11291,5 +11291,11 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/cow": {
+    "criteria": {
+      "has_milk_bucket": "2025-06-23 23:43:35 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3700
 }

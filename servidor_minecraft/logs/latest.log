@@ -1056,3 +1056,12 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [23:32:03] [Server thread/INFO]: Villager class_1646['Fletcher'/47836, l='ServerLevel[world]', x=-2168.71, y=-65.00, z=-14368.16] died, message: 'Fletcher was killed'
 [23:32:03] [Server thread/INFO]: Villager class_1646['Leatherworker'/47837, l='ServerLevel[world]', x=-2165.48, y=-65.00, z=-14375.30] died, message: 'Leatherworker was killed'
 [23:32:03] [Server thread/INFO]: Villager class_1646['Cartographer'/47839, l='ServerLevel[world]', x=-2165.97, y=-65.00, z=-14374.61] died, message: 'Cartographer was killed'
+[23:38:46] [Server thread/INFO]: [badbalta: Teleported badbalta to -1864.500000, 64.500000, -13711.500000]
+[23:42:43] [Server thread/INFO]: [badbalta: Teleported badbalta to -1931.500000, 64.500000, -14057.500000]
+[23:43:10] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to 732.500000, 96.000000, -8279.500000]
+[23:43:12] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[23:43:14] [Server thread/INFO]: Villager class_1646['Farmer'/55516, l='ServerLevel[world]', x=-2167.64, y=-65.00, z=-13873.78] died, message: 'Farmer was killed'
+[23:43:14] [Server thread/INFO]: Villager class_1646['Farmer'/55517, l='ServerLevel[world]', x=-2167.57, y=-65.00, z=-13874.71] died, message: 'Farmer was killed'
+[23:43:14] [Server thread/INFO]: Villager class_1646['Farmer'/55518, l='ServerLevel[world]', x=-2174.70, y=-65.00, z=-13878.49] died, message: 'Farmer was killed'
+[23:43:14] [Server thread/INFO]: Villager class_1646['Farmer'/55519, l='ServerLevel[world]', x=-2174.30, y=-65.00, z=-13878.49] died, message: 'Farmer was killed'
+[23:43:56] [Server thread/INFO]: Villager class_1646['Farmer'/55669, l='ServerLevel[world]', x=-2178.50, y=-65.00, z=-13874.30] died, message: 'Farmer was killed'
