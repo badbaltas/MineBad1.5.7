@@ -12254,6 +12254,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-06-23 22:20:00 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/red_bed": {
     "criteria": {
       "has_red_wool": "2025-06-23 21:23:28 +0000"
