@@ -1278,3 +1278,175 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [19:38:06] [Server thread/INFO]: Villager class_1646['Leatherworker'/36920, l='ServerLevel[world]', x=1083.70, y=-65.00, z=-11172.50] died, message: 'Leatherworker was killed'
 [19:39:01] [Server thread/INFO]: Villager class_1646['Unemployed'/36922, l='ServerLevel[world]', x=1083.70, y=54.05, z=-11172.50] died, message: 'Unemployed drowned'
 [19:39:41] [Server thread/INFO]: SimonPro74 tried to swim in lava
+[19:40:47] [Server thread/INFO]: Villager class_1646['Leatherworker'/39829, l='ServerLevel[world]', x=993.50, y=-65.00, z=-11287.30] died, message: 'Leatherworker was killed'
+[19:40:59] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[19:40:59] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:40:59] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[19:40:59] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:40:59] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[19:40:59] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:40:59] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[19:40:59] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:40:59] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[19:40:59] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:40:59] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=-19, y=-59, z=8}
+[19:40:59] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[19:40:59] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:40:59] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[19:40:59] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:40:59] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[19:40:59] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:40:59] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[19:40:59] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:40:59] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=-12, y=-59, z=12}
+[19:41:35] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:41:35] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:41:35] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:41:35] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:41:58] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=823, y=-19, z=-195}
+[19:41:58] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=823, y=-19, z=-193}
+[19:42:00] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=825, y=-19, z=-195}
+[19:42:00] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=824, y=-19, z=-193}
+[19:42:00] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=824, y=-19, z=-195}
+[19:42:15] [Server thread/INFO]: SimonPro74 tried to swim in lava
+[19:42:58] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[19:43:31] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:43:31] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:43:32] [Server thread/INFO]: Villager class_1646['Leatherworker'/42145, l='ServerLevel[world]', x=1583.50, y=-65.00, z=-11335.70] died, message: 'Leatherworker was killed'
+[19:43:35] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:43:35] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:43:35] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:43:35] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:43:35] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:43:35] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:43:41] [Worker-Main-4/ERROR]: Detected setBlock in a far chunk [104, -699], pos: class_2339{x=1665, y=61, z=-11171}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains]
+[19:43:41] [Worker-Main-4/ERROR]: Detected setBlock in a far chunk [104, -699], pos: class_2339{x=1665, y=64, z=-11177}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains]
+[19:43:41] [Worker-Main-4/ERROR]: Detected setBlock in a far chunk [104, -699], pos: class_2339{x=1664, y=63, z=-11176}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains]
+[19:43:41] [Worker-Main-4/ERROR]: Detected setBlock in a far chunk [104, -698], pos: class_2339{x=1664, y=63, z=-11168}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains]
+[19:43:41] [Worker-Main-4/ERROR]: Detected setBlock in a far chunk [104, -699], pos: class_2339{x=1665, y=64, z=-11175}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains]
+[19:43:41] [Worker-Main-4/ERROR]: Detected setBlock in a far chunk [104, -698], pos: class_2339{x=1665, y=62, z=-11167}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains]
+[19:43:41] [Worker-Main-4/ERROR]: Detected setBlock in a far chunk [104, -699], pos: class_2339{x=1664, y=64, z=-11171}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains]
+[19:43:41] [Worker-Main-4/ERROR]: Detected setBlock in a far chunk [104, -698], pos: class_2339{x=1664, y=66, z=-11161}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains]
+[19:43:41] [Worker-Main-4/ERROR]: Detected setBlock in a far chunk [104, -698], pos: class_2339{x=1665, y=63, z=-11165}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains]
+[19:43:41] [Worker-Main-4/ERROR]: Detected setBlock in a far chunk [104, -698], pos: class_2339{x=1664, y=62, z=-11166}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains]
+[19:43:41] [Worker-Main-4/ERROR]: Detected setBlock in a far chunk [104, -698], pos: class_2339{x=1665, y=63, z=-11162}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains]
+[19:43:42] [Worker-Main-3/ERROR]: Detected setBlock in a far chunk [102, -696], pos: class_2339{x=1647, y=66, z=-11136}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains]
+[19:43:42] [Worker-Main-3/ERROR]: Detected setBlock in a far chunk [103, -696], pos: class_2339{x=1653, y=64, z=-11136}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains]
+[19:43:42] [Worker-Main-3/ERROR]: Detected setBlock in a far chunk [103, -696], pos: class_2339{x=1654, y=65, z=-11135}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains]
+[19:43:42] [Worker-Main-3/ERROR]: Detected setBlock in a far chunk [103, -696], pos: class_2339{x=1652, y=63, z=-11135}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains]
+[19:43:42] [Worker-Main-3/ERROR]: Detected setBlock in a far chunk [103, -696], pos: class_2339{x=1652, y=64, z=-11136}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains]
+[19:43:42] [Worker-Main-3/ERROR]: Detected setBlock in a far chunk [102, -696], pos: class_2339{x=1644, y=64, z=-11136}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains]
+[19:43:42] [Worker-Main-3/ERROR]: Detected setBlock in a far chunk [102, -696], pos: class_2339{x=1647, y=64, z=-11136}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains]
+[19:43:42] [Worker-Main-3/ERROR]: Detected setBlock in a far chunk [102, -696], pos: class_2339{x=1646, y=63, z=-11135}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains]
+[19:43:42] [Worker-Main-3/ERROR]: Detected setBlock in a far chunk [102, -696], pos: class_2339{x=1644, y=63, z=-11135}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains]
+[19:43:42] [Worker-Main-3/ERROR]: Detected setBlock in a far chunk [103, -696], pos: class_2339{x=1653, y=64, z=-11136}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains]
+[19:43:42] [Worker-Main-3/ERROR]: Detected setBlock in a far chunk [103, -696], pos: class_2339{x=1656, y=63, z=-11136}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains]
+[19:43:42] [Worker-Main-3/ERROR]: Detected setBlock in a far chunk [104, -697], pos: class_2339{x=1665, y=65, z=-11144}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains]
+[19:43:42] [Worker-Main-3/ERROR]: Detected setBlock in a far chunk [104, -697], pos: class_2339{x=1664, y=65, z=-11151}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains]
+[19:43:42] [Worker-Main-3/ERROR]: Detected setBlock in a far chunk [104, -697], pos: class_2339{x=1664, y=64, z=-11150}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains]
+[19:43:42] [Worker-Main-3/ERROR]: Detected setBlock in a far chunk [104, -697], pos: class_2339{x=1664, y=63, z=-11148}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains]
+[19:43:42] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[19:43:42] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:43:42] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[19:43:42] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:43:42] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[19:43:42] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:43:42] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[19:43:42] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:43:42] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[19:43:42] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:43:42] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[19:43:42] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:43:43] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=-19, y=-53, z=1724}
+[19:43:44] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=44, y=-57, z=10}
+[19:43:44] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=44, y=-58, z=8}
+[19:43:44] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=44, y=-58, z=9}
+[19:43:44] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=47, y=-58, z=2}
+[19:43:44] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=45, y=-57, z=2}
+[19:43:44] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[19:43:44] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:43:44] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[19:43:44] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:43:44] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[19:43:44] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:43:44] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=48, y=-59, z=7}
+[19:43:44] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=48, y=-57, z=8}
+[19:43:44] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[19:43:44] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:43:51] [Server thread/INFO]: Villager class_1646['Leatherworker'/42671, l='ServerLevel[world]', x=1672.70, y=-65.00, z=-11184.50] died, message: 'Leatherworker was killed'
+[19:44:13] [Server thread/INFO]: Villager class_1646['Farmer'/43361, l='ServerLevel[world]', x=1789.51, y=-65.00, z=-11188.30] died, message: 'Farmer was killed'
+[19:44:13] [Server thread/INFO]: Villager class_1646['Farmer'/43362, l='ServerLevel[world]', x=1789.51, y=-65.00, z=-11188.70] died, message: 'Farmer was killed'
+[19:44:13] [Server thread/INFO]: Villager class_1646['Cartographer'/43364, l='ServerLevel[world]', x=1790.70, y=-65.00, z=-11163.43] died, message: 'Cartographer was killed'
+[19:44:13] [Server thread/INFO]: Villager class_1646['Leatherworker'/43365, l='ServerLevel[world]', x=1790.70, y=-65.00, z=-11164.52] died, message: 'Leatherworker was killed'
+[19:44:13] [Server thread/INFO]: Villager class_1646['Cartographer'/43366, l='ServerLevel[world]', x=1791.39, y=-65.00, z=-11164.03] died, message: 'Cartographer was killed'
+[19:44:17] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[19:44:21] [Server thread/INFO]: Villager class_1646['Farmer'/43632, l='ServerLevel[world]', x=1794.78, y=-65.00, z=-11133.64] died, message: 'Farmer was killed'
+[19:44:21] [Server thread/INFO]: Villager class_1646['Farmer'/43633, l='ServerLevel[world]', x=1795.71, y=-65.00, z=-11133.57] died, message: 'Farmer was killed'
+[19:44:21] [Server thread/INFO]: Villager class_1646['Farmer'/43636, l='ServerLevel[world]', x=1795.30, y=-65.00, z=-11144.50] died, message: 'Farmer was killed'
+[19:44:21] [Server thread/INFO]: Villager class_1646['Farmer'/43637, l='ServerLevel[world]', x=1799.49, y=-65.00, z=-11140.70] died, message: 'Farmer was killed'
+[19:44:21] [Server thread/INFO]: Villager class_1646['Farmer'/43638, l='ServerLevel[world]', x=1799.49, y=-65.00, z=-11140.30] died, message: 'Farmer was killed'
+[19:44:21] [Server thread/INFO]: Villager class_1646['Fletcher'/43639, l='ServerLevel[world]', x=1797.37, y=-65.00, z=-11163.24] died, message: 'Fletcher was killed'
+[19:44:21] [Server thread/INFO]: Villager class_1646['Fletcher'/43640, l='ServerLevel[world]', x=1797.84, y=-65.00, z=-11161.29] died, message: 'Fletcher was killed'
+[19:44:22] [Server thread/INFO]: Villager class_1646['Farmer'/43678, l='ServerLevel[world]', x=1794.22, y=-65.00, z=-11195.36] died, message: 'Farmer was killed'
+[19:44:22] [Server thread/INFO]: Villager class_1646['Farmer'/43679, l='ServerLevel[world]', x=1793.29, y=-65.00, z=-11195.43] died, message: 'Farmer was killed'
+[19:44:22] [Server thread/INFO]: Villager class_1646['Farmer'/43680, l='ServerLevel[world]', x=1793.70, y=-65.00, z=-11184.50] died, message: 'Farmer was killed'
+[19:44:22] [Server thread/INFO]: Villager class_1646['Leatherworker'/43700, l='ServerLevel[world]', x=1800.30, y=-65.00, z=-11278.50] died, message: 'Leatherworker was killed'
+[19:44:28] [Server thread/INFO]: Villager class_1646['Leatherworker'/43851, l='ServerLevel[world]', x=1816.70, y=-65.00, z=-11200.50] died, message: 'Leatherworker was killed'
+[19:44:38] [Server thread/INFO]: Villager class_1646['Cartographer'/44109, l='ServerLevel[world]', x=1850.30, y=-65.00, z=-11139.57] died, message: 'Cartographer was killed'
+[19:44:38] [Server thread/INFO]: Villager class_1646['Fletcher'/44110, l='ServerLevel[world]', x=1843.63, y=-65.00, z=-11139.76] died, message: 'Fletcher was killed'
+[19:44:38] [Server thread/INFO]: Villager class_1646['Fletcher'/44111, l='ServerLevel[world]', x=1843.16, y=-65.00, z=-11141.71] died, message: 'Fletcher was killed'
+[19:44:38] [Server thread/INFO]: Villager class_1646['Leatherworker'/44112, l='ServerLevel[world]', x=1850.30, y=-65.00, z=-11138.48] died, message: 'Leatherworker was killed'
+[19:44:38] [Server thread/INFO]: Villager class_1646['Cartographer'/44113, l='ServerLevel[world]', x=1849.61, y=-65.00, z=-11138.97] died, message: 'Cartographer was killed'
+[19:44:38] [Server thread/INFO]: Villager class_1646['Armorer'/44142, l='ServerLevel[world]', x=1847.25, y=-65.00, z=-11184.72] died, message: 'Armorer was killed'
+[19:44:38] [Server thread/INFO]: Villager class_1646['Cartographer'/44146, l='ServerLevel[world]', x=1850.30, y=-65.00, z=-11165.57] died, message: 'Cartographer was killed'
+[19:44:38] [Server thread/INFO]: Villager class_1646['Fletcher'/44147, l='ServerLevel[world]', x=1843.63, y=-65.00, z=-11165.76] died, message: 'Fletcher was killed'
+[19:44:38] [Server thread/INFO]: Villager class_1646['Fletcher'/44148, l='ServerLevel[world]', x=1843.16, y=-65.00, z=-11167.71] died, message: 'Fletcher was killed'
+[19:44:38] [Server thread/INFO]: Villager class_1646['Leatherworker'/44149, l='ServerLevel[world]', x=1850.30, y=-65.00, z=-11164.48] died, message: 'Leatherworker was killed'
+[19:44:38] [Server thread/INFO]: Villager class_1646['Cartographer'/44151, l='ServerLevel[world]', x=1849.61, y=-65.00, z=-11164.97] died, message: 'Cartographer was killed'
+[19:46:03] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=823, y=-18, z=-200}
+[19:46:03] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=821, y=-18, z=-198}
+[19:46:04] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=826, y=-19, z=-201}
+[19:46:04] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=830, y=-19, z=-198}
+[19:46:04] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=-19, y=-59, z=8}
+[19:46:04] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[19:46:04] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:46:04] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[19:46:04] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:46:04] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[19:46:04] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:46:04] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=-12, y=-59, z=12}
+[19:46:12] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.992124141020895
+[19:46:12] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 1.113600912907259
+[19:46:12] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 1.4156019603308323
+[19:46:12] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 1.7652774219252478
+[19:46:13] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 2.1347081976123263
+[19:46:13] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 2.514709647992049
+[19:46:13] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 2.900367255643232
+[19:46:13] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 3.2985399556021093
+[19:46:15] [Server thread/INFO]: badbalta has made the advancement [A trip to the Countryside]
+[19:46:42] [Server thread/INFO]: SimonPro74 has made the advancement [A trip to the Countryside]
+[19:47:09] [Server thread/INFO]: Villager class_1646['Unemployed'/42496, l='ServerLevel[world]', x=1650.36, y=64.00, z=-11169.51] died, message: 'Unemployed was slain by Zombie'
+[19:47:33] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=27, y=-58, z=9}
+[19:47:33] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=27, y=-57, z=8}
+[19:47:33] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=33, y=-58, z=6}
+[19:47:33] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=33, y=-57, z=4}
+[19:47:47] [Worker-Main-4/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[19:47:47] [Worker-Main-4/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[19:48:01] [Server thread/INFO]: Villager class_1646['Cartographer'/45878, l='ServerLevel[world]', x=1779.43, y=-65.00, z=-11583.30] died, message: 'Cartographer was killed'
+[19:48:01] [Server thread/INFO]: Villager class_1646['Fletcher'/45879, l='ServerLevel[world]', x=1779.24, y=-65.00, z=-11576.63] died, message: 'Fletcher was killed'
+[19:48:01] [Server thread/INFO]: Villager class_1646['Fletcher'/45880, l='ServerLevel[world]', x=1777.29, y=-65.00, z=-11576.16] died, message: 'Fletcher was killed'
+[19:48:01] [Server thread/INFO]: Villager class_1646['Leatherworker'/45881, l='ServerLevel[world]', x=1780.52, y=-65.00, z=-11583.30] died, message: 'Leatherworker was killed'
+[19:48:01] [Server thread/INFO]: Villager class_1646['Cartographer'/45883, l='ServerLevel[world]', x=1780.03, y=-65.00, z=-11582.61] died, message: 'Cartographer was killed'
+[19:48:05] [Worker-Main-4/WARN]: Empty or non-existent pool: minecraft:
+[19:48:05] [Worker-Main-4/WARN]: Empty or non-existent pool: minecraft:
+[19:48:05] [Worker-Main-4/WARN]: Empty or non-existent pool: minecraft:
+[19:48:05] [Worker-Main-4/WARN]: Empty or non-existent pool: minecraft:
+[19:48:38] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=-19, y=-59, z=8}
+[19:48:38] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[19:48:38] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:48:38] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[19:48:38] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:48:38] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[19:48:38] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:48:38] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=-12, y=-59, z=12}
+[19:48:39] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
