@@ -11731,9 +11731,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2025-06-23 19:51:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2025-06-23 19:28:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-06-23 19:51:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2025-06-23 19:51:26 +0000"
     },
     "done": true
   },
@@ -11857,15 +11875,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald_from_smelting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2025-06-23 19:51:26 +0000"
+    },
+    "done": true
+  },
   "mcwpaths:recipes/mud_brick": {
     "criteria": {
       "has_wood": "2025-06-23 19:26:32 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-06-23 19:51:31 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/print_blossom": {
     "criteria": {
       "has_logs": "2025-06-23 19:18:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-06-23 19:51:31 +0000"
     },
     "done": true
   },
