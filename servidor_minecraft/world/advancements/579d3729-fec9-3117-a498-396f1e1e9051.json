@@ -11659,102 +11659,6 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/balustrade_mud_bricks_bridge": {
-    "criteria": {
-      "has_planks": "2025-06-23 19:26:32 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_pink_pane2": {
-    "criteria": {
-      "recipe_condition2": "2025-06-23 19:18:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
-    "criteria": {
-      "has_polished_diorite": "2025-06-23 19:06:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
-    "criteria": {
-      "has_mud_bricks": "2025-06-23 19:26:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_candle": {
-    "criteria": {
-      "has_yellow_dye": "2025-06-23 19:09:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pink_candle": {
-    "criteria": {
-      "has_pink_dye": "2025-06-23 19:18:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_pink_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-06-23 19:18:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_rose_bush": {
-    "criteria": {
-      "has_rose_bush": "2025-06-23 19:36:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
-    "criteria": {
-      "has_pink_dye": "2025-06-23 19:18:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_yellow_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-06-23 19:09:41 +0000"
-    },
-    "done": true
-  },
-  "totw_modded:derelict_grass_tower": {
-    "criteria": {
-      "derelict_grass": "2025-06-23 19:46:15 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_yellow_pane2": {
-    "criteria": {
-      "recipe_condition2": "2025-06-23 19:09:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
-    "criteria": {
-      "has_blue_orchid": "2025-06-23 19:51:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/flower_banner_pattern": {
-    "criteria": {
-      "has_oxeye_daisy": "2025-06-23 19:28:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
-    "criteria": {
-      "has_kelp": "2025-06-23 19:51:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
-    "criteria": {
-      "has_emerald_ore": "2025-06-23 19:51:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_red_bed": {
     "criteria": {
       "has_needed_dye": "2025-06-23 18:59:47 +0000"
@@ -11767,45 +11671,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mud_brick_stairs": {
-    "criteria": {
-      "has_mud_bricks": "2025-06-23 19:26:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/honey_bottle": {
-    "criteria": {
-      "has_honey_block": "2025-06-23 19:06:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
       "has_red_dye": "2025-06-23 18:59:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_bed": {
-    "criteria": {
-      "has_blue_wool": "2025-06-23 19:12:28 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/mud_brick_bridge": {
-    "criteria": {
-      "has_planks": "2025-06-23 19:26:32 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/tinted_borderless_glass_yellow2": {
-    "criteria": {
-      "recipe_condition2": "2025-06-23 19:09:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-06-23 19:09:41 +0000"
     },
     "done": true
   },
@@ -11821,123 +11689,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
-    "criteria": {
-      "has_mud_bricks": "2025-06-23 19:26:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mud_bricks": {
-    "criteria": {
-      "has_packed_mud": "2025-06-23 19:27:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_tulip": {
-    "criteria": {
-      "has_red_flower": "2025-06-23 19:34:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
-    "criteria": {
-      "has_orange_tulip": "2025-06-23 19:33:57 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/decorations/blue_sleeping_bag": {
-    "criteria": {
-      "has_blue_wool": "2025-06-23 19:12:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_banner": {
-    "criteria": {
-      "has_blue_wool": "2025-06-23 19:12:28 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/tinted_borderless_glass_pink2": {
-    "criteria": {
-      "recipe_condition2": "2025-06-23 19:18:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_lilac": {
-    "criteria": {
-      "has_lilac": "2025-06-23 19:39:32 +0000"
-    },
-    "done": true
-  },
   "connectedglass:recipes/misc/tinted_borderless_glass_red2": {
     "criteria": {
       "recipe_condition2": "2025-06-23 18:59:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/emerald_from_smelting_emerald_ore": {
-    "criteria": {
-      "has_emerald_ore": "2025-06-23 19:51:26 +0000"
-    },
-    "done": true
-  },
-  "mcwpaths:recipes/mud_brick": {
-    "criteria": {
-      "has_wood": "2025-06-23 19:26:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smelting": {
-    "criteria": {
-      "has_kelp": "2025-06-23 19:51:31 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/print_blossom": {
-    "criteria": {
-      "has_logs": "2025-06-23 19:18:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
-    "criteria": {
-      "has_kelp": "2025-06-23 19:51:31 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/clear_glass_pink_pane2": {
-    "criteria": {
-      "recipe_condition2": "2025-06-23 19:18:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
-    "criteria": {
-      "has_pink_tulip": "2025-06-23 19:33:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-06-23 19:27:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mud_brick_wall": {
-    "criteria": {
-      "has_mud_bricks": "2025-06-23 19:26:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_pink_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-06-23 19:18:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
-    "criteria": {
-      "has_mud_bricks": "2025-06-23 19:26:32 +0000"
     },
     "done": true
   },
@@ -11953,75 +11707,9 @@
     },
     "done": true
   },
-  "connectedglass:recipes/misc/scratched_glass_pink_pane2": {
-    "criteria": {
-      "recipe_condition2": "2025-06-23 19:18:27 +0000"
-    },
-    "done": true
-  },
-  "mcwroofs:recipes/mud_bricks": {
-    "criteria": {
-      "has_planks": "2025-06-23 19:26:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_pink_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-06-23 19:18:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
-    "criteria": {
-      "has_vex_armor_trim_smithing_template": "2025-06-23 19:27:43 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/mud_brick_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-06-23 19:26:32 +0000"
-    },
-    "done": true
-  },
-  "mcwstairs:recipes/mud": {
-    "criteria": {
-      "has_planks": "2025-06-23 19:26:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
-    "criteria": {
-      "has_white_tulip": "2025-06-23 19:32:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_slab": {
-    "criteria": {
-      "has_polished_diorite": "2025-06-23 19:06:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mud_brick_slab": {
-    "criteria": {
-      "has_mud_bricks": "2025-06-23 19:26:32 +0000"
-    },
-    "done": true
-  },
   "connectedglass:recipes/misc/borderless_glass_red_pane2": {
     "criteria": {
       "recipe_condition2": "2025-06-23 18:59:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
-    "criteria": {
-      "has_lily_of_the_valley": "2025-06-23 19:38:12 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/scratched_glass_pink2": {
-    "criteria": {
-      "recipe_condition2": "2025-06-23 19:18:27 +0000"
     },
     "done": true
   },
@@ -12037,27 +11725,21 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/building_blocks/dye_yellow_sleeping_bag": {
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
     "criteria": {
-      "has_needed_dye": "2025-06-23 19:09:41 +0000"
+      "has_polished_diorite": "2025-06-23 19:06:30 +0000"
     },
     "done": true
   },
-  "connectedglass:recipes/misc/clear_glass_yellow_pane2": {
+  "minecraft:recipes/food/honey_bottle": {
     "criteria": {
-      "recipe_condition2": "2025-06-23 19:09:41 +0000"
+      "has_honey_block": "2025-06-23 19:06:30 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blue_carpet": {
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
     "criteria": {
-      "has_blue_wool": "2025-06-23 19:12:28 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/building_blocks/dye_pink_sleeping_bag": {
-    "criteria": {
-      "has_needed_dye": "2025-06-23 19:18:27 +0000"
+      "has_polished_diorite": "2025-06-23 19:06:30 +0000"
     },
     "done": true
   },
@@ -12067,15 +11749,51 @@
     },
     "done": true
   },
-  "comforts:hammock_blue": {
-    "criteria": {
-      "has_blue_wool": "2025-06-23 19:12:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
     "criteria": {
       "has_polished_diorite": "2025-06-23 19:06:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2025-06-23 19:09:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-23 19:09:41 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_yellow_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-06-23 19:09:41 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/tinted_borderless_glass_yellow2": {
+    "criteria": {
+      "recipe_condition2": "2025-06-23 19:09:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-06-23 19:09:41 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_yellow_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-06-23 19:09:41 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_yellow_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-06-23 19:09:41 +0000"
     },
     "done": true
   },
@@ -12091,21 +11809,303 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
-    "criteria": {
-      "has_oxeye_daisy": "2025-06-23 19:28:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_yellow_bed": {
     "criteria": {
       "has_needed_dye": "2025-06-23 19:09:41 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2025-06-23 19:12:28 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/blue_sleeping_bag": {
+    "criteria": {
+      "has_blue_wool": "2025-06-23 19:12:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2025-06-23 19:12:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2025-06-23 19:12:28 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_blue": {
+    "criteria": {
+      "has_blue_wool": "2025-06-23 19:12:28 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_blue": {
     "criteria": {
       "has_blue_wool": "2025-06-23 19:12:28 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_pink_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-06-23 19:18:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_candle": {
+    "criteria": {
+      "has_pink_dye": "2025-06-23 19:18:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-06-23 19:18:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_pink_dye": "2025-06-23 19:18:27 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/tinted_borderless_glass_pink2": {
+    "criteria": {
+      "recipe_condition2": "2025-06-23 19:18:27 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_blossom": {
+    "criteria": {
+      "has_logs": "2025-06-23 19:18:27 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_pink_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-06-23 19:18:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-23 19:18:27 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_pink_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-06-23 19:18:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-06-23 19:18:27 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_pink2": {
+    "criteria": {
+      "recipe_condition2": "2025-06-23 19:18:27 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_pink_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-06-23 19:18:27 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_mud_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-23 19:26:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-06-23 19:26:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs": {
+    "criteria": {
+      "has_mud_bricks": "2025-06-23 19:26:32 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mud_brick_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-23 19:26:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-06-23 19:26:32 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/mud_brick": {
+    "criteria": {
+      "has_wood": "2025-06-23 19:26:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall": {
+    "criteria": {
+      "has_mud_bricks": "2025-06-23 19:26:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-06-23 19:26:32 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/mud_bricks": {
+    "criteria": {
+      "has_planks": "2025-06-23 19:26:32 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mud_brick_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-23 19:26:32 +0000"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/mud": {
+    "criteria": {
+      "has_planks": "2025-06-23 19:26:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab": {
+    "criteria": {
+      "has_mud_bricks": "2025-06-23 19:26:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2025-06-23 19:27:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-23 19:27:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2025-06-23 19:27:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-06-23 19:28:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-06-23 19:28:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2025-06-23 19:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2025-06-23 19:33:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2025-06-23 19:33:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-06-23 19:34:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-06-23 19:36:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-06-23 19:38:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-06-23 19:39:32 +0000"
+    },
+    "done": true
+  },
+  "totw_modded:derelict_grass_tower": {
+    "criteria": {
+      "derelict_grass": "2025-06-23 19:46:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2025-06-23 19:51:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2025-06-23 19:51:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_smelting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2025-06-23 19:51:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-06-23 19:51:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-06-23 19:51:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-06-23 19:51:31 +0000"
     },
     "done": true
   },
