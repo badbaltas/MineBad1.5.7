@@ -1590,3 +1590,8 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [20:33:37] [Server thread/INFO]: SimonPro74 joined the game
 [20:38:00] [Server thread/WARN]: badbalta moved too quickly! 8.727953604590539,-3.766367993957516,3.2744789458884043
 [20:39:14] [Server thread/WARN]: SimonPro74 moved too quickly! 0.011746759383981953,-1.9642517098257741,-10.149082650137643
+[20:49:02] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[20:49:52] [Server thread/INFO]: badbalta was killed
+[20:49:52] [Server thread/INFO]: [badbalta: Killed badbalta]
+[20:50:20] [Server thread/INFO]: [badbalta: Teleported badbalta to SimonPro74]
+[20:51:43] [Server thread/INFO]: SimonPro74 has reached the goal [You Need a Mint]
