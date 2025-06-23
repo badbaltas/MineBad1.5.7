@@ -12248,47 +12248,11 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-23 22:44:00 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-23 22:44:00 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-23 22:44:00 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/red_banner": {
     "criteria": {
       "has_red_wool": "2025-06-23 21:23:28 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-23 22:44:00 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-23 22:44:00 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-23 22:44:00 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/decorations/red_bed": {
     "criteria": {
@@ -12296,41 +12260,11 @@
     },
     "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-23 22:44:00 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-23 22:44:00 +0000"
-    },
-    "done": false
-  },
   "comforts:sleeping_bag_red": {
     "criteria": {
       "has_red_wool": "2025-06-23 21:23:28 +0000"
     },
     "done": true
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-23 22:44:00 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-23 22:44:00 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-23 22:44:00 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/decorations/red_carpet": {
     "criteria": {
@@ -12343,12 +12277,6 @@
       "has_red_wool": "2025-06-23 21:23:28 +0000"
     },
     "done": true
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-23 22:44:00 +0000"
-    },
-    "done": false
   },
   "travelersbackpack:recipes/decorations/red_sleeping_bag": {
     "criteria": {
