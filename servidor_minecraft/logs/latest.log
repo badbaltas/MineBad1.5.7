@@ -872,3 +872,63 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [18:45:55] [Server thread/INFO]: [badbalta: Teleported badbalta to 672.500000, 134.500000, -8711.500000]
 [18:56:48] [Server thread/INFO]: SimonPro74 was killed
 [18:56:48] [Server thread/INFO]: [badbalta: Killed SimonPro74]
+[19:03:48] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=203, y=48, z=159}
+[19:05:06] [Server thread/INFO]: SimonPro74 lost connection: Timed out
+[19:05:06] [Server thread/INFO]: SimonPro74 left the game
+[19:05:06] [Server thread/WARN]: handleDisconnection() called twice
+[19:05:10] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=44, y=-57, z=10}
+[19:05:10] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=44, y=-58, z=8}
+[19:05:10] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=44, y=-58, z=9}
+[19:05:10] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=47, y=-58, z=2}
+[19:05:10] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=45, y=-57, z=2}
+[19:05:10] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[19:05:10] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:05:10] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[19:05:10] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:05:10] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[19:05:10] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:05:10] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=48, y=-59, z=7}
+[19:05:10] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=48, y=-57, z=8}
+[19:05:10] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[19:05:10] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:05:54] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=27, y=-58, z=9}
+[19:05:54] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=27, y=-57, z=8}
+[19:05:54] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=33, y=-58, z=6}
+[19:05:54] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=33, y=-57, z=4}
+[19:05:56] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=-19, y=-59, z=8}
+[19:05:56] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[19:05:56] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:05:56] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[19:05:56] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:05:56] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[19:05:56] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:05:56] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=-12, y=-59, z=12}
+[19:05:56] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[19:05:56] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:05:56] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[19:05:56] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:05:56] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[19:05:56] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:05:56] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[19:05:56] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:05:56] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[19:05:56] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:05:56] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[19:05:56] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:07:58] [Server thread/INFO]: [badbalta: Teleported badbalta to 672.500000, 134.500000, -8711.500000]
+[19:13:20] [Server thread/INFO]: SimonPro74[/127.129.91.1:58249] logged in with entity id 16601 at (733.2376736820077, 100.0, -8288.20229993849)
+[19:13:20] [Server thread/INFO]: Loading config from file...
+[19:13:20] [Server thread/INFO]: SimonPro74 joined the game
+[19:14:21] [Server thread/INFO]: SimonPro74 lost connection: Timed out
+[19:14:21] [Server thread/INFO]: SimonPro74 left the game
+[19:15:17] [Server thread/INFO]: Disconnecting SimonPro74 (/127.129.91.1:39617): Took too long to log in
+[19:15:17] [Server thread/INFO]: SimonPro74 (/127.129.91.1:39617) lost connection: Took too long to log in
+[19:15:17] [Server thread/WARN]: handleDisconnection() called twice
+[19:17:39] [Server thread/INFO]: Disconnecting SimonPro74 (/127.129.91.1:53703): Took too long to log in
+[19:17:39] [Server thread/INFO]: SimonPro74 (/127.129.91.1:53703) lost connection: Took too long to log in
+[19:17:39] [Server thread/WARN]: handleDisconnection() called twice
+[19:17:45] [Server thread/WARN]: badbalta moved too quickly! 3.327035520069103,-1.9642517098257741,-9.587456931036286
+[19:18:01] [Server thread/WARN]: badbalta moved too quickly! 1.2401145546882617,-2.5254664840617096,-9.70100739739064
+[19:19:08] [Server thread/INFO]: SimonPro74[/127.129.91.1:55767] logged in with entity id 18206 at (733.2376736820077, 100.0, -8288.20229993849)
+[19:19:08] [Server thread/INFO]: Loading config from file...
+[19:19:08] [Server thread/INFO]: SimonPro74 joined the game

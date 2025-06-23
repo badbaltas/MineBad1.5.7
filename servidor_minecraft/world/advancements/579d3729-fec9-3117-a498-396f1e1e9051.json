@@ -11658,5 +11658,197 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2025-06-23 19:06:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2025-06-23 19:09:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-23 19:09:41 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_yellow_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-06-23 19:09:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-06-23 18:59:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-23 18:59:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2025-06-23 19:06:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2025-06-23 18:59:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2025-06-23 19:12:28 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/tinted_borderless_glass_yellow2": {
+    "criteria": {
+      "recipe_condition2": "2025-06-23 19:09:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-06-23 19:09:41 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_red_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-06-23 18:59:47 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_red_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-06-23 18:59:47 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/blue_sleeping_bag": {
+    "criteria": {
+      "has_blue_wool": "2025-06-23 19:12:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2025-06-23 19:12:28 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/tinted_borderless_glass_red2": {
+    "criteria": {
+      "recipe_condition2": "2025-06-23 18:59:47 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_red_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-06-23 18:59:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-06-23 18:59:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2025-06-23 19:06:30 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_red_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-06-23 18:59:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-06-23 18:59:47 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_red2": {
+    "criteria": {
+      "recipe_condition2": "2025-06-23 18:59:47 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_yellow_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-06-23 19:09:41 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_yellow_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-06-23 19:09:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2025-06-23 19:12:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-06-23 19:06:30 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_blue": {
+    "criteria": {
+      "has_blue_wool": "2025-06-23 19:12:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-06-23 19:06:30 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_yellow_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-06-23 19:09:41 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_yellow2": {
+    "criteria": {
+      "recipe_condition2": "2025-06-23 19:09:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-06-23 19:09:41 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_blue": {
+    "criteria": {
+      "has_blue_wool": "2025-06-23 19:12:28 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3700
 }
