@@ -12122,12 +12122,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/purple_candle": {
-    "criteria": {
-      "has_purple_dye": "2025-06-23 20:40:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/magenta_candle": {
     "criteria": {
       "has_magenta_dye": "2025-06-23 20:33:20 +0000"
@@ -12140,33 +12134,9 @@
     },
     "done": true
   },
-  "connectedglass:recipes/misc/scratched_glass_purple_pane2": {
-    "criteria": {
-      "recipe_condition2": "2025-06-23 20:40:14 +0000"
-    },
-    "done": true
-  },
   "connectedglass:recipes/misc/clear_glass_magenta_pane2": {
     "criteria": {
       "recipe_condition2": "2025-06-23 20:33:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/summon_wither": {
-    "criteria": {
-      "summoned": "2025-06-23 20:52:10 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/clear_glass_purple_pane2": {
-    "criteria": {
-      "recipe_condition2": "2025-06-23 20:40:14 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/tinted_borderless_glass_purple2": {
-    "criteria": {
-      "recipe_condition2": "2025-06-23 20:40:14 +0000"
     },
     "done": true
   },
@@ -12188,15 +12158,45 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/building_blocks/dye_purple_sleeping_bag": {
+  "minecraft:recipes/building_blocks/dye_magenta_bed": {
     "criteria": {
-      "has_needed_dye": "2025-06-23 20:40:14 +0000"
+      "has_needed_dye": "2025-06-23 20:33:20 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/beacon": {
+  "minecraft:recipes/building_blocks/dye_magenta_wool": {
     "criteria": {
-      "has_nether_star": "2025-06-23 20:53:18 +0000"
+      "has_needed_dye": "2025-06-23 20:33:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_candle": {
+    "criteria": {
+      "has_purple_dye": "2025-06-23 20:40:14 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_purple_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-06-23 20:40:14 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_purple_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-06-23 20:40:14 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/tinted_borderless_glass_purple2": {
+    "criteria": {
+      "recipe_condition2": "2025-06-23 20:40:14 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_purple_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-06-23 20:40:14 +0000"
     },
     "done": true
   },
@@ -12224,21 +12224,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_magenta_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-06-23 20:33:20 +0000"
-    },
-    "done": true
-  },
   "connectedglass:recipes/misc/scratched_glass_purple2": {
     "criteria": {
       "recipe_condition2": "2025-06-23 20:40:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_magenta_wool": {
+  "minecraft:nether/summon_wither": {
     "criteria": {
-      "has_needed_dye": "2025-06-23 20:33:20 +0000"
+      "summoned": "2025-06-23 20:52:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-06-23 20:53:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2025-06-23 21:09:39 +0000"
     },
     "done": true
   },
