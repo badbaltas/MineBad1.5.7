@@ -927,3 +927,439 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [06:45:57] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
 [06:45:57] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=-12, y=-59, z=12}
 [06:45:58] [Server thread/INFO]: Villager class_1646['Leatherworker'/39592, l='ServerLevel[world]', x=-16112.50, y=-65.00, z=-19847.70] died, message: 'Leatherworker was killed'
+[06:46:58] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:46:58] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:46:58] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:46:58] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:46:58] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:46:58] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:46:58] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:46:58] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:47:15] [Worker-Main-1/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[06:47:47] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=-15, y=-11, z=216}
+[06:47:47] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=-11, y=-11, z=222}
+[06:47:47] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=-10, y=-12, z=223}
+[06:47:51] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-26, y=-10, z=218}
+[06:47:51] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-20, y=-11, z=216}
+[06:47:51] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-21, y=-11, z=216}
+[06:47:51] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-22, y=-11, z=216}
+[06:47:51] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-22, y=-11, z=217}
+[06:47:51] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-21, y=-11, z=217}
+[06:47:51] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-20, y=-11, z=217}
+[06:47:51] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-20, y=-11, z=218}
+[06:47:51] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-21, y=-11, z=218}
+[06:47:51] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-22, y=-11, z=218}
+[06:47:54] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=559, y=-26, z=-250}
+[06:47:54] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=563, y=-26, z=-248}
+[06:47:54] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=563, y=-12, z=-248}
+[06:47:54] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=563, y=-12, z=-249}
+[06:47:54] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=569, y=-13, z=-248}
+[06:47:57] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=562, y=-26, z=-242}
+[06:47:57] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=562, y=-12, z=-242}
+[06:47:57] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=563, y=-13, z=-242}
+[06:47:57] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=569, y=-12, z=-241}
+[06:47:57] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=569, y=-12, z=-242}
+[06:47:59] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=-118, y=-12, z=15}
+[06:48:42] [Worker-Main-1/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[06:48:42] [Worker-Main-1/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[06:48:46] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=247, y=-11, z=-115}
+[06:48:49] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=-133, y=-10, z=17}
+[06:49:31] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=-133, y=-10, z=17}
+[06:49:34] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=1340, y=81, z=648}
+[06:50:17] [Worker-Main-2/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[06:50:31] [Server thread/INFO]: Villager class_1646['Unemployed'/42586, l='ServerLevel[world]', x=-16260.66, y=75.00, z=-20429.51] died, message: 'Unemployed suffocated in a wall'
+[06:50:31] [Server thread/INFO]: Villager class_1646['Unemployed'/42587, l='ServerLevel[world]', x=-16269.51, y=76.00, z=-20419.34] died, message: 'Unemployed suffocated in a wall'
+[06:52:02] [Server thread/INFO]: Villager class_1646['Unemployed'/42452, l='ServerLevel[world]', x=-16209.45, y=98.80, z=-20344.90] died, message: 'Unemployed was slain by Zombie'
+[06:52:23] [Server thread/INFO]: Villager class_1646['Unemployed'/42453, l='ServerLevel[world]', x=-16201.70, y=89.00, z=-20355.52] died, message: 'Unemployed was slain by Zombie'
+[06:53:31] [Server thread/INFO]: Villager class_1646['Farmer'/43834, l='ServerLevel[world]', x=-16048.70, y=-65.00, z=-20162.49] died, message: 'Farmer was killed'
+[06:53:31] [Server thread/INFO]: Villager class_1646['Farmer'/43835, l='ServerLevel[world]', x=-16048.30, y=-65.00, z=-20162.49] died, message: 'Farmer was killed'
+[06:53:31] [Server thread/INFO]: Villager class_1646['Farmer'/43836, l='ServerLevel[world]', x=-16052.50, y=-65.00, z=-20158.30] died, message: 'Farmer was killed'
+[06:53:44] [Server thread/INFO]: Villager class_1646['Farmer'/43926, l='ServerLevel[world]', x=-16041.64, y=-65.00, z=-20157.78] died, message: 'Farmer was killed'
+[06:53:44] [Server thread/INFO]: Villager class_1646['Farmer'/43927, l='ServerLevel[world]', x=-16041.57, y=-65.00, z=-20158.71] died, message: 'Farmer was killed'
+[07:01:13] [Server thread/INFO]: [badbalta: Teleported badbalta to -16102.500000, 118.500000, -20077.500000]
+[07:01:21] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=247, y=-11, z=-115}
+[07:01:22] [Worker-Main-2/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[07:01:32] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=-118, y=-12, z=15}
+[07:05:14] [Server thread/INFO]: [badbalta: Teleported badbalta to -16270.500000, 90.500000, -20431.500000]
+[07:05:18] [Worker-Main-2/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[07:05:18] [Worker-Main-2/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[07:05:18] [Worker-Main-2/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[07:05:18] [Worker-Main-2/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[07:05:18] [Worker-Main-2/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[07:05:22] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-327, y=59, z=-34}
+[07:05:22] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-326, y=59, z=-34}
+[07:05:22] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-325, y=59, z=-33}
+[07:05:22] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-325, y=59, z=-32}
+[07:05:22] [Server thread/INFO]: Villager class_1646['Cartographer'/50763, l='ServerLevel[world]', x=-16147.30, y=-65.00, z=-20599.43] died, message: 'Cartographer was killed'
+[07:05:22] [Server thread/INFO]: Villager class_1646['Leatherworker'/50764, l='ServerLevel[world]', x=-16147.30, y=-65.00, z=-20600.52] died, message: 'Leatherworker was killed'
+[07:05:22] [Server thread/INFO]: Villager class_1646['Cartographer'/50765, l='ServerLevel[world]', x=-16146.61, y=-65.00, z=-20600.03] died, message: 'Cartographer was killed'
+[07:05:22] [Server thread/INFO]: Villager class_1646['Fletcher'/50768, l='ServerLevel[world]', x=-16140.63, y=-65.00, z=-20599.24] died, message: 'Fletcher was killed'
+[07:05:22] [Server thread/INFO]: Villager class_1646['Fletcher'/50769, l='ServerLevel[world]', x=-16140.16, y=-65.00, z=-20597.29] died, message: 'Fletcher was killed'
+[07:05:22] [Server thread/INFO]: Villager class_1646['Cartographer'/50775, l='ServerLevel[world]', x=-16118.57, y=-65.00, z=-20604.30] died, message: 'Cartographer was killed'
+[07:05:22] [Server thread/INFO]: Villager class_1646['Fletcher'/50776, l='ServerLevel[world]', x=-16118.76, y=-65.00, z=-20597.63] died, message: 'Fletcher was killed'
+[07:05:22] [Server thread/INFO]: Villager class_1646['Fletcher'/50777, l='ServerLevel[world]', x=-16120.71, y=-65.00, z=-20597.16] died, message: 'Fletcher was killed'
+[07:05:22] [Server thread/INFO]: Villager class_1646['Leatherworker'/50778, l='ServerLevel[world]', x=-16117.48, y=-65.00, z=-20604.30] died, message: 'Leatherworker was killed'
+[07:05:22] [Server thread/INFO]: Villager class_1646['Cartographer'/50780, l='ServerLevel[world]', x=-16117.97, y=-65.00, z=-20603.61] died, message: 'Cartographer was killed'
+[07:05:23] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:05:23] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:05:23] [Server thread/INFO]: Villager class_1646['Fisherman'/50891, l='ServerLevel[world]', x=-16090.07, y=-65.00, z=-20604.01] died, message: 'Fisherman was killed'
+[07:05:23] [Server thread/INFO]: Villager class_1646['Cartographer'/50925, l='ServerLevel[world]', x=-16462.43, y=-65.00, z=-20541.70] died, message: 'Cartographer was killed'
+[07:05:23] [Server thread/INFO]: Villager class_1646['Leatherworker'/50926, l='ServerLevel[world]', x=-16463.52, y=-65.00, z=-20541.70] died, message: 'Leatherworker was killed'
+[07:05:23] [Server thread/INFO]: Villager class_1646['Cartographer'/50927, l='ServerLevel[world]', x=-16463.03, y=-65.00, z=-20542.39] died, message: 'Cartographer was killed'
+[07:05:24] [Server thread/INFO]: Villager class_1646['Fletcher'/50953, l='ServerLevel[world]', x=-16462.24, y=-65.00, z=-20548.37] died, message: 'Fletcher was killed'
+[07:05:24] [Server thread/INFO]: Villager class_1646['Fletcher'/50954, l='ServerLevel[world]', x=-16460.29, y=-65.00, z=-20548.84] died, message: 'Fletcher was killed'
+[07:05:24] [Server thread/INFO]: Villager class_1646['Cartographer'/50959, l='ServerLevel[world]', x=-16459.70, y=-65.00, z=-20572.57] died, message: 'Cartographer was killed'
+[07:05:24] [Server thread/INFO]: Villager class_1646['Leatherworker'/50960, l='ServerLevel[world]', x=-16459.70, y=-65.00, z=-20571.48] died, message: 'Leatherworker was killed'
+[07:05:24] [Server thread/INFO]: Villager class_1646['Cartographer'/50961, l='ServerLevel[world]', x=-16460.39, y=-65.00, z=-20571.97] died, message: 'Cartographer was killed'
+[07:05:24] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=-327, y=59, z=-34}
+[07:05:24] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=-326, y=59, z=-34}
+[07:05:24] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=-325, y=59, z=-33}
+[07:05:24] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=-325, y=59, z=-32}
+[07:05:25] [Server thread/INFO]: Villager class_1646['Toolsmith'/51029, l='ServerLevel[world]', x=-16461.16, y=-65.00, z=-20598.59] died, message: 'Toolsmith was killed'
+[07:05:25] [Server thread/INFO]: Villager class_1646['Shepherd'/51030, l='ServerLevel[world]', x=-16459.50, y=-65.00, z=-20600.30] died, message: 'Shepherd was killed'
+[07:05:25] [Server thread/INFO]: Villager class_1646['Librarian'/51031, l='ServerLevel[world]', x=-16462.46, y=-65.00, z=-20598.76] died, message: 'Librarian was killed'
+[07:05:25] [Server thread/INFO]: Villager class_1646['Farmer'/51060, l='ServerLevel[world]', x=-16458.64, y=-65.00, z=-20623.78] died, message: 'Farmer was killed'
+[07:05:25] [Server thread/INFO]: Villager class_1646['Fisherman'/51073, l='ServerLevel[world]', x=-16069.73, y=-65.00, z=-20601.27] died, message: 'Fisherman was killed'
+[07:05:25] [Server thread/INFO]: Villager class_1646['Toolsmith'/51077, l='ServerLevel[world]', x=-16064.41, y=-65.00, z=-20598.16] died, message: 'Toolsmith was killed'
+[07:05:25] [Server thread/INFO]: Villager class_1646['Librarian'/51078, l='ServerLevel[world]', x=-16064.24, y=-65.00, z=-20599.46] died, message: 'Librarian was killed'
+[07:05:26] [Server thread/INFO]: Villager class_1646['Fletcher'/51130, l='ServerLevel[world]', x=-16466.37, y=-65.00, z=-20572.76] died, message: 'Fletcher was killed'
+[07:05:26] [Server thread/INFO]: Villager class_1646['Fletcher'/51131, l='ServerLevel[world]', x=-16466.84, y=-65.00, z=-20574.71] died, message: 'Fletcher was killed'
+[07:05:26] [Server thread/INFO]: Villager class_1646['Fisherman'/51146, l='ServerLevel[world]', x=-16464.27, y=-65.00, z=-20593.27] died, message: 'Fisherman was killed'
+[07:05:29] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=-327, y=59, z=-34}
+[07:05:29] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=-326, y=59, z=-34}
+[07:05:29] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=-325, y=59, z=-33}
+[07:05:29] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=-325, y=59, z=-32}
+[07:05:29] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:05:29] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:05:29] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:05:29] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:05:29] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:05:29] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:05:30] [Server thread/INFO]: Villager class_1646['Farmer'/51294, l='ServerLevel[world]', x=-16458.57, y=-65.00, z=-20624.71] died, message: 'Farmer was killed'
+[07:05:34] [Server thread/INFO]: Villager class_1646['Farmer'/51408, l='ServerLevel[world]', x=-16066.30, y=-65.00, z=-20646.50] died, message: 'Farmer was killed'
+[07:05:34] [Server thread/INFO]: Villager class_1646['Farmer'/51409, l='ServerLevel[world]', x=-16070.49, y=-65.00, z=-20650.30] died, message: 'Farmer was killed'
+[07:05:34] [Server thread/INFO]: Villager class_1646['Farmer'/51410, l='ServerLevel[world]', x=-16070.49, y=-65.00, z=-20650.70] died, message: 'Farmer was killed'
+[07:05:34] [Server thread/INFO]: Villager class_1646['Shepherd'/51436, l='ServerLevel[world]', x=-16062.70, y=-65.00, z=-20596.50] died, message: 'Shepherd was killed'
+[07:05:35] [Server thread/INFO]: Villager class_1646['Farmer'/51449, l='ServerLevel[world]', x=-16065.78, y=-65.00, z=-20657.36] died, message: 'Farmer was killed'
+[07:05:35] [Server thread/INFO]: Villager class_1646['Farmer'/51450, l='ServerLevel[world]', x=-16066.71, y=-65.00, z=-20657.43] died, message: 'Farmer was killed'
+[07:05:39] [Server thread/INFO]: Villager class_1646['Farmer'/51645, l='ServerLevel[world]', x=-16469.50, y=-65.00, z=-20624.30] died, message: 'Farmer was killed'
+[07:05:39] [Server thread/INFO]: Villager class_1646['Farmer'/51646, l='ServerLevel[world]', x=-16465.70, y=-65.00, z=-20628.49] died, message: 'Farmer was killed'
+[07:05:39] [Server thread/INFO]: Villager class_1646['Farmer'/51647, l='ServerLevel[world]', x=-16465.30, y=-65.00, z=-20628.49] died, message: 'Farmer was killed'
+[07:05:44] [Server thread/INFO]: Villager class_1646['Armorer'/51764, l='ServerLevel[world]', x=-16483.72, y=-65.00, z=-20572.25] died, message: 'Armorer was killed'
+[07:05:44] [Server thread/INFO]: Villager class_1646['Cartographer'/51769, l='ServerLevel[world]', x=-16488.43, y=-65.00, z=-20593.70] died, message: 'Cartographer was killed'
+[07:05:44] [Server thread/INFO]: Villager class_1646['Fletcher'/51770, l='ServerLevel[world]', x=-16488.24, y=-65.00, z=-20600.37] died, message: 'Fletcher was killed'
+[07:05:44] [Server thread/INFO]: Villager class_1646['Fletcher'/51771, l='ServerLevel[world]', x=-16486.29, y=-65.00, z=-20600.84] died, message: 'Fletcher was killed'
+[07:05:44] [Server thread/INFO]: Villager class_1646['Leatherworker'/51772, l='ServerLevel[world]', x=-16489.52, y=-65.00, z=-20593.70] died, message: 'Leatherworker was killed'
+[07:05:44] [Server thread/INFO]: Villager class_1646['Cartographer'/51774, l='ServerLevel[world]', x=-16489.03, y=-65.00, z=-20594.39] died, message: 'Cartographer was killed'
+[07:05:44] [Server thread/INFO]: Villager class_1646['Fisherman'/51782, l='ServerLevel[world]', x=-16488.07, y=-65.00, z=-20627.01] died, message: 'Fisherman was killed'
+[07:05:44] [Server thread/INFO]: Villager class_1646['Fisherman'/51786, l='ServerLevel[world]', x=-16488.73, y=-65.00, z=-20653.73] died, message: 'Fisherman was killed'
+[07:05:44] [Server thread/INFO]: Villager class_1646['Toolsmith'/51790, l='ServerLevel[world]', x=-16491.84, y=-65.00, z=-20648.41] died, message: 'Toolsmith was killed'
+[07:05:44] [Server thread/INFO]: Villager class_1646['Shepherd'/51791, l='ServerLevel[world]', x=-16493.50, y=-65.00, z=-20646.70] died, message: 'Shepherd was killed'
+[07:05:44] [Server thread/INFO]: Villager class_1646['Librarian'/51792, l='ServerLevel[world]', x=-16490.54, y=-65.00, z=-20648.24] died, message: 'Librarian was killed'
+[07:07:09] [Server thread/INFO]: Villager class_1646['Farmer'/52170, l='ServerLevel[world]', x=-16039.78, y=-65.00, z=-20631.36] died, message: 'Farmer was killed'
+[07:07:09] [Server thread/INFO]: Villager class_1646['Farmer'/52171, l='ServerLevel[world]', x=-16040.71, y=-65.00, z=-20631.43] died, message: 'Farmer was killed'
+[07:07:09] [Server thread/INFO]: Villager class_1646['Farmer'/52172, l='ServerLevel[world]', x=-16044.49, y=-65.00, z=-20624.30] died, message: 'Farmer was killed'
+[07:07:09] [Server thread/INFO]: Villager class_1646['Farmer'/52173, l='ServerLevel[world]', x=-16044.49, y=-65.00, z=-20624.70] died, message: 'Farmer was killed'
+[07:07:09] [Server thread/INFO]: Villager class_1646['Farmer'/52174, l='ServerLevel[world]', x=-16040.30, y=-65.00, z=-20620.50] died, message: 'Farmer was killed'
+[07:07:09] [Server thread/INFO]: Villager class_1646['Farmer'/52181, l='ServerLevel[world]', x=-16038.70, y=-65.00, z=-20580.50] died, message: 'Farmer was killed'
+[07:07:09] [Server thread/INFO]: Villager class_1646['Farmer'/52182, l='ServerLevel[world]', x=-16034.51, y=-65.00, z=-20576.70] died, message: 'Farmer was killed'
+[07:07:09] [Server thread/INFO]: Villager class_1646['Farmer'/52183, l='ServerLevel[world]', x=-16034.51, y=-65.00, z=-20576.30] died, message: 'Farmer was killed'
+[07:07:09] [Server thread/INFO]: Villager class_1646['Farmer'/52184, l='ServerLevel[world]', x=-16039.22, y=-65.00, z=-20569.64] died, message: 'Farmer was killed'
+[07:07:09] [Server thread/INFO]: Villager class_1646['Farmer'/52185, l='ServerLevel[world]', x=-16038.29, y=-65.00, z=-20569.57] died, message: 'Farmer was killed'
+[07:07:09] [Server thread/INFO]: Villager class_1646['Fisherman'/52187, l='ServerLevel[world]', x=-16035.99, y=-65.00, z=-20599.07] died, message: 'Fisherman was killed'
+[07:07:13] [Worker-Main-2/WARN]: Skipping Entity with id 
+[07:07:13] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:07:13] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:07:13] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:07:13] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:07:13] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:07:13] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:07:13] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:07:13] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:07:13] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:07:13] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:07:32] [Server thread/INFO]: Villager class_1646['Fisherman'/52589, l='ServerLevel[world]', x=-15983.99, y=-65.00, z=-20599.07] died, message: 'Fisherman was killed'
+[07:07:51] [Worker-Main-3/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[07:08:02] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=44, y=-57, z=10}
+[07:08:02] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=44, y=-58, z=8}
+[07:08:02] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=44, y=-58, z=9}
+[07:08:02] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=47, y=-58, z=2}
+[07:08:02] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=45, y=-57, z=2}
+[07:08:02] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[07:08:02] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:08:02] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[07:08:02] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:08:02] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[07:08:02] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:08:02] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=48, y=-59, z=7}
+[07:08:02] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=48, y=-57, z=8}
+[07:08:02] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[07:08:02] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:08:17] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=-19, y=-59, z=8}
+[07:08:17] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[07:08:17] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:08:17] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[07:08:17] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:08:17] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[07:08:17] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:08:17] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[07:08:17] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:08:17] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=-12, y=-59, z=12}
+[07:08:22] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[07:08:22] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:08:22] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[07:08:22] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:08:22] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[07:08:22] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:08:22] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[07:08:22] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:08:22] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[07:08:22] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:08:31] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:08:32] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=27, y=-58, z=9}
+[07:08:32] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=27, y=-57, z=8}
+[07:08:32] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=33, y=-58, z=6}
+[07:08:32] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=33, y=-57, z=4}
+[07:08:45] [Worker-Main-2/WARN]: Empty or non-existent pool: wabi_sabi_structures:entities/one_horse
+[07:08:46] [Worker-Main-3/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[07:08:47] [Server thread/INFO]: Villager class_1646['Leatherworker'/53724, l='ServerLevel[world]', x=-15991.30, y=-65.00, z=-21072.50] died, message: 'Leatherworker was killed'
+[07:12:06] [Server thread/INFO]: Villager class_1646['Farmer'/54656, l='ServerLevel[world]', x=-16509.50, y=-65.00, z=-20622.70] died, message: 'Farmer was killed'
+[07:12:06] [Server thread/INFO]: Villager class_1646['Farmer'/54657, l='ServerLevel[world]', x=-16520.36, y=-65.00, z=-20623.22] died, message: 'Farmer was killed'
+[07:12:06] [Server thread/INFO]: Villager class_1646['Farmer'/54658, l='ServerLevel[world]', x=-16520.43, y=-65.00, z=-20622.29] died, message: 'Farmer was killed'
+[07:12:06] [Server thread/INFO]: Villager class_1646['Farmer'/54659, l='ServerLevel[world]', x=-16513.30, y=-65.00, z=-20618.51] died, message: 'Farmer was killed'
+[07:12:06] [Server thread/INFO]: Villager class_1646['Farmer'/54660, l='ServerLevel[world]', x=-16513.70, y=-65.00, z=-20618.51] died, message: 'Farmer was killed'
+[07:12:12] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[07:12:12] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:12:12] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[07:12:12] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:12:12] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[07:12:12] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:12:12] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[07:12:12] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:12:12] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[07:12:12] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:12:12] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=-19, y=-59, z=8}
+[07:12:12] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[07:12:12] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:12:12] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[07:12:12] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:12:12] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[07:12:12] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:12:12] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[07:12:12] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:12:12] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=-12, y=-59, z=12}
+[07:13:07] [Server thread/INFO]: badbalta has made the advancement [A breath of fresh air]
+[07:13:27] [Server thread/INFO]: Villager class_1646['Unemployed'/54428, l='ServerLevel[world]', x=-16439.41, y=64.00, z=-20662.16] died, message: 'Unemployed was slain by Zombie'
+[07:13:48] [Server thread/INFO]: Villager class_1646['Unemployed'/54453, l='ServerLevel[world]', x=-16413.56, y=65.00, z=-20664.59] died, message: 'Unemployed was slain by Zombie'
+[07:14:20] [Server thread/INFO]: Villager class_1646['Unemployed'/54639, l='ServerLevel[world]', x=-16372.21, y=68.00, z=-20664.49] died, message: 'Unemployed was slain by Zombie'
+[07:14:56] [Server thread/INFO]: Villager class_1646['Unemployed'/54503, l='ServerLevel[world]', x=-16424.30, y=63.42, z=-20644.44] died, message: 'Unemployed was slain by Zombie'
+[07:17:58] [Server thread/INFO]: [badbalta: Teleported badbalta to 672.500000, 134.500000, -8711.500000]
+[07:18:50] [Server thread/INFO]: [badbalta: Teleported badbalta to 672.500000, 134.500000, -8711.500000]
+[07:20:52] [Server thread/INFO]: [badbalta: Teleported badbalta to 672.500000, 134.500000, -8711.500000]
+[07:23:34] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=108, y=-12, z=-77}
+[07:23:34] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=109, y=-12, z=-78}
+[07:23:34] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=108, y=-12, z=-79}
+[07:23:34] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=107, y=-12, z=-78}
+[07:24:53] [Server thread/INFO]: Villager class_1646['Leatherworker'/63233, l='ServerLevel[world]', x=-16714.27, y=-65.00, z=-21145.69] died, message: 'Leatherworker was killed'
+[07:25:36] [Worker-Main-1/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[07:26:06] [Server thread/INFO]: Villager class_1646['Farmer'/63707, l='ServerLevel[world]', x=-16735.78, y=-65.00, z=-21176.36] died, message: 'Farmer was killed'
+[07:26:06] [Server thread/INFO]: Villager class_1646['Farmer'/63708, l='ServerLevel[world]', x=-16736.71, y=-65.00, z=-21176.43] died, message: 'Farmer was killed'
+[07:26:06] [Server thread/INFO]: Villager class_1646['Farmer'/63709, l='ServerLevel[world]', x=-16740.49, y=-65.00, z=-21169.30] died, message: 'Farmer was killed'
+[07:26:06] [Server thread/INFO]: Villager class_1646['Farmer'/63710, l='ServerLevel[world]', x=-16740.49, y=-65.00, z=-21169.70] died, message: 'Farmer was killed'
+[07:26:19] [Server thread/INFO]: Villager class_1646['Nitwit'/63773, l='ServerLevel[world]', x=-16798.44, y=-65.00, z=-21372.71] died, message: 'Nitwit was killed'
+[07:26:23] [Worker-Main-2/WARN]: Empty or non-existent pool: kaisyn:village/meadow_swiss/villagers
+[07:26:23] [Worker-Main-2/WARN]: Empty or non-existent pool: kaisyn:village/meadow_swiss/villagers
+[07:28:49] [Worker-Main-1/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[07:29:06] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=-547, y=-5, z=-25}
+[07:29:20] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=-30, y=-52, z=539}
+[07:29:21] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-39, y=-52, z=539}
+[07:29:22] [Server thread/INFO]: Villager class_1646['Fisherman'/64803, l='ServerLevel[world]', x=-16654.93, y=-65.00, z=-21770.99] died, message: 'Fisherman was killed'
+[07:29:23] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=-39, y=-52, z=539}
+[07:29:23] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=-30, y=-52, z=539}
+[07:29:23] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-39, y=-52, z=539}
+[07:29:23] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-30, y=-52, z=539}
+[07:29:24] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=-327, y=59, z=-34}
+[07:29:24] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=-326, y=59, z=-34}
+[07:29:24] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=-325, y=59, z=-33}
+[07:29:24] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=-325, y=59, z=-32}
+[07:29:25] [Server thread/INFO]: Villager class_1646['Leatherworker'/64897, l='ServerLevel[world]', x=-16705.31, y=-65.00, z=-21779.27] died, message: 'Leatherworker was killed'
+[07:29:26] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=-22, y=-57, z=618}
+[07:29:26] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=-14, y=-57, z=618}
+[07:29:26] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=-22, y=-57, z=626}
+[07:29:26] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=-14, y=-57, z=626}
+[07:29:27] [Server thread/INFO]: Villager class_1646['Cartographer'/64956, l='ServerLevel[world]', x=-16649.70, y=-65.00, z=-21801.57] died, message: 'Cartographer was killed'
+[07:29:27] [Server thread/INFO]: Villager class_1646['Leatherworker'/64957, l='ServerLevel[world]', x=-16649.70, y=-65.00, z=-21800.48] died, message: 'Leatherworker was killed'
+[07:29:27] [Server thread/INFO]: Villager class_1646['Cartographer'/64958, l='ServerLevel[world]', x=-16650.39, y=-65.00, z=-21800.97] died, message: 'Cartographer was killed'
+[07:29:27] [Server thread/INFO]: Villager class_1646['Fletcher'/64963, l='ServerLevel[world]', x=-16656.37, y=-65.00, z=-21801.76] died, message: 'Fletcher was killed'
+[07:29:27] [Server thread/INFO]: Villager class_1646['Fletcher'/64964, l='ServerLevel[world]', x=-16656.84, y=-65.00, z=-21803.71] died, message: 'Fletcher was killed'
+[07:29:27] [Server thread/INFO]: Villager class_1646['Fisherman'/64971, l='ServerLevel[world]', x=-16683.73, y=-65.00, z=-21801.27] died, message: 'Fisherman was killed'
+[07:29:27] [Server thread/INFO]: Villager class_1646['Toolsmith'/64975, l='ServerLevel[world]', x=-16678.41, y=-65.00, z=-21798.16] died, message: 'Toolsmith was killed'
+[07:29:27] [Server thread/INFO]: Villager class_1646['Shepherd'/64976, l='ServerLevel[world]', x=-16676.70, y=-65.00, z=-21796.50] died, message: 'Shepherd was killed'
+[07:29:27] [Server thread/INFO]: Villager class_1646['Librarian'/64977, l='ServerLevel[world]', x=-16678.24, y=-65.00, z=-21799.46] died, message: 'Librarian was killed'
+[07:29:28] [Server thread/INFO]: Villager class_1646['Fisherman'/65006, l='ServerLevel[world]', x=-16701.99, y=-65.00, z=-21799.07] died, message: 'Fisherman was killed'
+[07:29:28] [Server thread/INFO]: Villager class_1646['Fisherman'/65012, l='ServerLevel[world]', x=-16727.99, y=-65.00, z=-21799.07] died, message: 'Fisherman was killed'
+[07:29:29] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=-30, y=-52, z=539}
+[07:29:30] [Server thread/INFO]: Villager class_1646['Armorer'/65072, l='ServerLevel[world]', x=-16730.75, y=-65.00, z=-21820.72] died, message: 'Armorer was killed'
+[07:29:30] [Server thread/INFO]: Villager class_1646['Farmer'/65087, l='ServerLevel[world]', x=-16680.30, y=-65.00, z=-21820.50] died, message: 'Farmer was killed'
+[07:29:33] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:29:33] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=-39, y=-52, z=539}
+[07:29:34] [Server thread/INFO]: Villager class_1646['Fisherman'/65201, l='ServerLevel[world]', x=-16652.07, y=-65.00, z=-21830.01] died, message: 'Fisherman was killed'
+[07:29:34] [Server thread/INFO]: Villager class_1646['Farmer'/65204, l='ServerLevel[world]', x=-16679.78, y=-65.00, z=-21831.36] died, message: 'Farmer was killed'
+[07:29:34] [Server thread/INFO]: Villager class_1646['Farmer'/65205, l='ServerLevel[world]', x=-16680.71, y=-65.00, z=-21831.43] died, message: 'Farmer was killed'
+[07:29:34] [Server thread/INFO]: Villager class_1646['Farmer'/65206, l='ServerLevel[world]', x=-16684.49, y=-65.00, z=-21824.30] died, message: 'Farmer was killed'
+[07:29:34] [Server thread/INFO]: Villager class_1646['Farmer'/65207, l='ServerLevel[world]', x=-16684.49, y=-65.00, z=-21824.70] died, message: 'Farmer was killed'
+[07:29:52] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=-55, y=-52, z=1054}
+[07:29:59] [Server thread/INFO]: Villager class_1646['Leatherworker'/65625, l='ServerLevel[world]', x=-16464.50, y=-65.00, z=-21895.70] died, message: 'Leatherworker was killed'
+[07:30:21] [Worker-Main-2/WARN]: Skipping Entity with id 
+[07:30:35] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-19, y=-59, z=8}
+[07:30:35] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[07:30:35] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:30:35] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[07:30:35] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:30:35] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[07:30:35] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:30:35] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[07:30:35] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:30:35] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-12, y=-59, z=12}
+[07:30:39] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:30:39] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:30:39] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:30:39] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:30:39] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:30:39] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[07:30:39] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:30:39] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[07:30:39] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:30:39] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[07:30:39] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:30:39] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[07:30:39] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:30:39] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[07:30:39] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:30:39] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=44, y=-57, z=10}
+[07:30:39] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=44, y=-58, z=8}
+[07:30:39] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=44, y=-58, z=9}
+[07:30:39] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=47, y=-58, z=2}
+[07:30:39] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=45, y=-57, z=2}
+[07:30:39] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[07:30:39] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:30:39] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[07:30:39] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:30:39] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[07:30:39] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:30:39] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=48, y=-59, z=7}
+[07:30:39] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=48, y=-57, z=8}
+[07:30:39] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[07:30:39] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:30:59] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:30:59] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:30:59] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:31:27] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=27, y=-58, z=9}
+[07:31:27] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=27, y=-57, z=8}
+[07:31:27] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=33, y=-58, z=6}
+[07:31:27] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=33, y=-57, z=4}
+[07:31:51] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:31:51] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:31:55] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:33:18] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=44, y=-57, z=10}
+[07:33:18] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=44, y=-58, z=8}
+[07:33:18] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=44, y=-58, z=9}
+[07:33:18] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=47, y=-58, z=2}
+[07:33:18] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=45, y=-57, z=2}
+[07:33:18] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[07:33:18] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:33:18] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[07:33:18] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:33:18] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[07:33:18] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:33:18] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=48, y=-59, z=7}
+[07:33:18] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=48, y=-57, z=8}
+[07:33:18] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[07:33:18] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:33:51] [Server thread/INFO]: Villager class_1646['Farmer'/67699, l='ServerLevel[world]', x=-16052.36, y=-65.00, z=-21547.22] died, message: 'Farmer was killed'
+[07:33:51] [Server thread/INFO]: Villager class_1646['Farmer'/67700, l='ServerLevel[world]', x=-16052.43, y=-65.00, z=-21546.29] died, message: 'Farmer was killed'
+[07:34:04] [Server thread/INFO]: Villager class_1646['Farmer'/67830, l='ServerLevel[world]', x=-16041.50, y=-65.00, z=-21546.70] died, message: 'Farmer was killed'
+[07:34:04] [Server thread/INFO]: Villager class_1646['Farmer'/67831, l='ServerLevel[world]', x=-16045.30, y=-65.00, z=-21542.51] died, message: 'Farmer was killed'
+[07:34:04] [Server thread/INFO]: Villager class_1646['Farmer'/67832, l='ServerLevel[world]', x=-16045.70, y=-65.00, z=-21542.51] died, message: 'Farmer was killed'
+[07:34:30] [Worker-Main-2/WARN]: Empty or non-existent pool: minecraft:
+[07:34:31] [Server thread/INFO]: Villager class_1646['Cartographer'/68088, l='ServerLevel[world]', x=-16022.57, y=-65.00, z=-21551.30] died, message: 'Cartographer was killed'
+[07:34:31] [Server thread/INFO]: Villager class_1646['Fletcher'/68089, l='ServerLevel[world]', x=-16022.76, y=-65.00, z=-21544.63] died, message: 'Fletcher was killed'
+[07:34:31] [Server thread/INFO]: Villager class_1646['Fletcher'/68090, l='ServerLevel[world]', x=-16024.71, y=-65.00, z=-21544.16] died, message: 'Fletcher was killed'
+[07:34:31] [Server thread/INFO]: Villager class_1646['Leatherworker'/68091, l='ServerLevel[world]', x=-16021.48, y=-65.00, z=-21551.30] died, message: 'Leatherworker was killed'
+[07:34:31] [Server thread/INFO]: Villager class_1646['Cartographer'/68093, l='ServerLevel[world]', x=-16021.97, y=-65.00, z=-21550.61] died, message: 'Cartographer was killed'
+[07:34:34] [Server thread/INFO]: Villager class_1646['Farmer'/68168, l='ServerLevel[world]', x=-16000.49, y=-65.00, z=-21571.30] died, message: 'Farmer was killed'
+[07:34:34] [Server thread/INFO]: Villager class_1646['Farmer'/68169, l='ServerLevel[world]', x=-16000.49, y=-65.00, z=-21571.70] died, message: 'Farmer was killed'
+[07:34:36] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=216, y=47, z=211}
+[07:34:54] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=-37, y=-11, z=63}
+[07:34:54] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=-44, y=-12, z=63}
+[07:34:54] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=-43, y=-11, z=60}
+[07:34:54] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=-42, y=-12, z=61}
+[07:34:54] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=-41, y=-11, z=65}
+[07:34:54] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=-42, y=-10, z=66}
+[07:34:55] [Worker-Main-2/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[07:34:55] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-15956, y=37, z=-21893} but found not block entity block Block{minecraft:water}[level=8] at location
+[07:34:55] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location class_2338{x=-15956, y=37, z=-21893}
+[07:34:56] [Server thread/INFO]: Villager class_1646['Leatherworker'/68839, l='ServerLevel[world]', x=-15950.50, y=-65.00, z=-21895.30] died, message: 'Leatherworker was killed'
+[07:35:31] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:35:31] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:35:31] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:35:31] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:35:31] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:35:41] [Worker-Main-2/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[07:35:53] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=24, y=5, z=-64}
+[07:35:53] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=17, y=6, z=-56}
+[07:35:53] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=24, y=5, z=-62}
+[07:35:53] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=16, y=6, z=-59}
+[07:35:53] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=18, y=5, z=-56}
+[07:35:54] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=44, y=-57, z=10}
+[07:35:54] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=44, y=-58, z=8}
+[07:35:54] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=44, y=-58, z=9}
+[07:35:54] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=47, y=-58, z=2}
+[07:35:54] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=45, y=-57, z=2}
+[07:35:54] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[07:35:54] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:35:54] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[07:35:54] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:35:54] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[07:35:54] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:35:54] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=48, y=-59, z=7}
+[07:35:54] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=48, y=-57, z=8}
+[07:35:54] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[07:35:54] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:36:14] [Worker-Main-1/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[07:36:24] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=27, y=-58, z=9}
+[07:36:24] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=27, y=-57, z=8}
+[07:36:24] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=33, y=-58, z=6}
+[07:36:24] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=33, y=-57, z=4}
+[07:38:27] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=21, y=-57, z=-54}
+[07:38:27] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=21, y=-58, z=-55}
+[07:46:14] [Server thread/INFO]: Villager class_1646['Shepherd'/69771, l='ServerLevel[world]', x=-15952.50, y=63.00, z=-22230.65] died, message: 'Shepherd was slain by Vindicator'
+[07:52:25] [Server thread/INFO]: Villager class_1646['Unemployed'/69772, l='ServerLevel[world]', x=-15956.50, y=63.00, z=-22248.30] died, message: 'Unemployed was shot by Pillager'
+[07:54:36] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=311, y=48, z=214}
+[07:54:36] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=310, y=48, z=214}
+[07:54:36] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=309, y=49, z=214}
+[07:54:36] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=309, y=48, z=214}
+[07:54:36] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=310, y=49, z=214}
+[07:54:36] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=311, y=49, z=214}
+[07:54:36] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=311, y=50, z=214}
+[07:54:36] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=310, y=50, z=214}
+[07:54:36] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=309, y=50, z=214}
+[07:54:36] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:54:37] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=-243, y=77, z=-107}
+[07:54:46] [Server thread/INFO]: Villager class_1646['Cleric'/78041, l='ServerLevel[world]', x=-15836.70, y=-65.00, z=-21915.50] died, message: 'Cleric was killed'
+[07:54:46] [Server thread/INFO]: Villager class_1646['Fisherman'/78042, l='ServerLevel[world]', x=-15835.21, y=-65.00, z=-21914.50] died, message: 'Fisherman was killed'
+[07:56:36] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=44, y=-57, z=10}
+[07:56:36] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=44, y=-58, z=8}
+[07:56:36] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=44, y=-58, z=9}
+[07:56:36] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=47, y=-58, z=2}
+[07:56:36] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=45, y=-57, z=2}
+[07:56:36] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[07:56:36] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:56:36] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[07:56:36] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:56:36] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[07:56:36] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:56:36] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=48, y=-59, z=7}
+[07:56:36] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=48, y=-57, z=8}
+[07:56:36] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[07:56:36] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
