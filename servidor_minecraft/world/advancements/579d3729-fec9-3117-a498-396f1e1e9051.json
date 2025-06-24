@@ -12379,5 +12379,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_cut_copper_stairs": "2025-06-24 06:39:27 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3700
 }
