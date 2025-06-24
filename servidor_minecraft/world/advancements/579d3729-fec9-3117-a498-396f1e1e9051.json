@@ -12361,6 +12361,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-06-24 05:44:57 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/tide_armor_trim_smithing_template": {
     "criteria": {
       "has_tide_armor_trim_smithing_template": "2025-06-24 05:30:11 +0000"
