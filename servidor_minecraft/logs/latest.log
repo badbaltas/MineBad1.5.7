@@ -863,3 +863,4 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [03:11:28] [Server thread/INFO]: Villager class_1646['Farmer'/699, l='ServerLevel[world]', x=-2170.50, y=-0.44, z=-14376.50] died, message: 'Farmer suffocated in a wall'
 [03:11:29] [Server thread/INFO]: Villager class_1646['Fletcher'/754, l='ServerLevel[world]', x=-2160.50, y=-0.44, z=-14376.50] died, message: 'Fletcher suffocated in a wall'
 [03:24:10] [Server thread/WARN]: Player badbalta just tried to change non-editable sign
+[03:31:29] [Server thread/INFO]: Villager class_1646['Fletcher'/753, l='ServerLevel[world]', x=-2170.50, y=-0.44, z=-14376.50] died, message: 'Fletcher suffocated in a wall'
