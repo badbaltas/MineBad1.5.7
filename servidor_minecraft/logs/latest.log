@@ -885,3 +885,12 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [01:29:35] [Server thread/INFO]: Villager class_1646['Shepherd'/5761, l='ServerLevel[world]', x=-2170.49, y=-0.44, z=-14376.49] died, message: 'Shepherd suffocated in a wall'
 [01:35:08] [Server thread/INFO]: [badbalta: Set own game mode to Spectator Mode]
 [01:35:08] [Server thread/INFO]: [badbalta: Set own game mode to Survival Mode]
+[01:50:10] [Server thread/INFO]: Villager class_1646['Fisherman'/13414, l='ServerLevel[world]', x=-2170.50, y=-0.44, z=-14376.50] died, message: 'Fisherman suffocated in a wall'
+[01:53:44] [Server thread/INFO]: badbalta lost connection: Timed out
+[01:53:44] [Server thread/INFO]: badbalta left the game
+[01:54:17] [Server thread/INFO]: [Not Secure] [Server] hola
+[01:54:49] [Server thread/INFO]: badbalta[/127.64.18.150:42377] logged in with entity id 14945 at (-2100.699999988079, 36.0, -14296.699999988079)
+[01:54:49] [Server thread/INFO]: Loading config from file...
+[01:54:49] [Server thread/INFO]: badbalta joined the game
+[01:55:19] [Server thread/INFO]: badbalta lost connection: Timed out
+[01:55:19] [Server thread/INFO]: badbalta left the game
