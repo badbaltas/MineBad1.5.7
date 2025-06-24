@@ -882,3 +882,4 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [01:12:56] [Server thread/INFO]: badbalta[/127.64.18.150:59265] logged in with entity id 5559 at (-2100.5908551035486, 36.0, -14294.996616369406)
 [01:12:56] [Server thread/INFO]: Loading config from file...
 [01:12:56] [Server thread/INFO]: badbalta joined the game
+[01:29:35] [Server thread/INFO]: Villager class_1646['Shepherd'/5761, l='ServerLevel[world]', x=-2170.49, y=-0.44, z=-14376.49] died, message: 'Shepherd suffocated in a wall'
