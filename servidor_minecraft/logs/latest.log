@@ -894,3 +894,26 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [01:54:49] [Server thread/INFO]: badbalta joined the game
 [01:55:19] [Server thread/INFO]: badbalta lost connection: Timed out
 [01:55:19] [Server thread/INFO]: badbalta left the game
+[01:56:23] [Server thread/INFO]: badbalta[/127.64.18.150:53747] logged in with entity id 15633 at (-2100.699999988079, 36.0, -14296.699999988079)
+[01:56:23] [Server thread/INFO]: Loading config from file...
+[01:56:23] [Server thread/INFO]: badbalta joined the game
+[01:56:53] [Server thread/INFO]: badbalta lost connection: Timed out
+[01:56:53] [Server thread/INFO]: badbalta left the game
+[01:57:23] [Server thread/INFO]: Stopping the server
+[01:57:23] [Server thread/INFO]: Stopping server
+[01:57:23] [Server thread/INFO]: Saving players
+[01:57:23] [Server thread/INFO]: Saving worlds
+[01:57:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:57:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:57:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[01:57:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:57:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:57:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:57:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[01:57:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:57:24] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:57:24] [Server thread/INFO]: Unloading server config for barteringstation
+[01:57:24] [Server thread/INFO]: Unloading server config for easyanvils
+[01:57:24] [Server thread/INFO]: Unloading server config for easymagic
+[01:57:24] [Server thread/INFO]: Unloading server config for hangglider
+[01:57:24] [Server thread/INFO]: Unloading server config for iteminteractions
