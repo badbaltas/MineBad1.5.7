@@ -1,1 +1,64 @@
 [00:04:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12960ms or 259 ticks behind
+[00:09:16] [Worker-Main-17/ERROR]: Hanging entity at invalid position: class_2338{x=-327, y=59, z=-34}
+[00:09:16] [Worker-Main-17/ERROR]: Hanging entity at invalid position: class_2338{x=-326, y=59, z=-34}
+[00:09:17] [Worker-Main-13/ERROR]: Hanging entity at invalid position: class_2338{x=-327, y=59, z=-34}
+[00:09:17] [Worker-Main-13/ERROR]: Hanging entity at invalid position: class_2338{x=-326, y=59, z=-34}
+[00:09:17] [Worker-Main-13/ERROR]: Hanging entity at invalid position: class_2338{x=-325, y=59, z=-33}
+[00:09:17] [Worker-Main-13/ERROR]: Hanging entity at invalid position: class_2338{x=-325, y=59, z=-32}
+[00:09:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6828ms or 136 ticks behind
+[00:09:18] [Server thread/INFO]: Villager class_1646['Farmer'/65582, l='ServerLevel[world]', x=-2656.22, y=-65.00, z=-13874.64] died, message: 'Farmer was killed'
+[00:09:18] [Server thread/INFO]: Villager class_1646['Fisherman'/65588, l='ServerLevel[world]', x=-2657.93, y=-65.00, z=-13901.99] died, message: 'Fisherman was killed'
+[00:09:18] [Server thread/INFO]: Villager class_1646['Farmer'/65627, l='ServerLevel[world]', x=-2655.29, y=-65.00, z=-13874.57] died, message: 'Farmer was killed'
+[00:09:18] [Server thread/INFO]: Villager class_1646['Farmer'/65628, l='ServerLevel[world]', x=-2655.70, y=-65.00, z=-13885.50] died, message: 'Farmer was killed'
+[00:09:18] [Server thread/INFO]: Villager class_1646['Farmer'/65629, l='ServerLevel[world]', x=-2651.51, y=-65.00, z=-13881.70] died, message: 'Farmer was killed'
+[00:09:18] [Server thread/INFO]: Villager class_1646['Farmer'/65630, l='ServerLevel[world]', x=-2651.51, y=-65.00, z=-13881.30] died, message: 'Farmer was killed'
+[00:09:18] [Server thread/INFO]: Villager class_1646['Fisherman'/65636, l='ServerLevel[world]', x=-2634.73, y=-65.00, z=-13906.27] died, message: 'Fisherman was killed'
+[00:09:18] [Server thread/INFO]: Villager class_1646['Librarian'/65640, l='ServerLevel[world]', x=-2629.24, y=-65.00, z=-13904.46] died, message: 'Librarian was killed'
+[00:09:18] [Server thread/INFO]: Villager class_1646['Toolsmith'/65645, l='ServerLevel[world]', x=-2629.41, y=-65.00, z=-13903.16] died, message: 'Toolsmith was killed'
+[00:09:18] [Server thread/INFO]: Villager class_1646['Shepherd'/65646, l='ServerLevel[world]', x=-2627.70, y=-65.00, z=-13901.50] died, message: 'Shepherd was killed'
+[00:09:24] [Worker-Main-13/ERROR]: Hanging entity at invalid position: class_2338{x=-325, y=59, z=-33}
+[00:09:24] [Worker-Main-13/ERROR]: Hanging entity at invalid position: class_2338{x=-325, y=59, z=-32}
+[00:09:24] [Server thread/INFO]: Villager class_1646['Fisherman'/65706, l='ServerLevel[world]', x=-2686.73, y=-65.00, z=-13932.27] died, message: 'Fisherman was killed'
+[00:09:24] [Server thread/INFO]: Villager class_1646['Toolsmith'/65708, l='ServerLevel[world]', x=-2681.41, y=-65.00, z=-13929.16] died, message: 'Toolsmith was killed'
+[00:09:24] [Server thread/INFO]: Villager class_1646['Shepherd'/65709, l='ServerLevel[world]', x=-2679.70, y=-65.00, z=-13927.50] died, message: 'Shepherd was killed'
+[00:09:24] [Server thread/INFO]: Villager class_1646['Librarian'/65710, l='ServerLevel[world]', x=-2681.24, y=-65.00, z=-13930.46] died, message: 'Librarian was killed'
+[00:09:24] [Server thread/INFO]: Villager class_1646['Fletcher'/65711, l='ServerLevel[world]', x=-2659.37, y=-65.00, z=-13932.76] died, message: 'Fletcher was killed'
+[00:09:24] [Server thread/INFO]: Villager class_1646['Fletcher'/65712, l='ServerLevel[world]', x=-2659.84, y=-65.00, z=-13934.71] died, message: 'Fletcher was killed'
+[00:09:24] [Server thread/INFO]: Villager class_1646['Cartographer'/65714, l='ServerLevel[world]', x=-2652.70, y=-65.00, z=-13932.57] died, message: 'Cartographer was killed'
+[00:09:24] [Server thread/INFO]: Villager class_1646['Leatherworker'/65715, l='ServerLevel[world]', x=-2652.70, y=-65.00, z=-13931.48] died, message: 'Leatherworker was killed'
+[00:09:24] [Server thread/INFO]: Villager class_1646['Cartographer'/65716, l='ServerLevel[world]', x=-2653.39, y=-65.00, z=-13931.97] died, message: 'Cartographer was killed'
+[00:09:24] [Server thread/INFO]: Villager class_1646['Armorer'/65717, l='ServerLevel[world]', x=-2629.75, y=-65.00, z=-13925.72] died, message: 'Armorer was killed'
+[00:09:33] [Server thread/INFO]: Villager class_1646['Unemployed'/65661, l='ServerLevel[world]', x=-2631.48, y=-12.00, z=-13912.78] died, message: 'Unemployed tried to swim in lava'
+[00:09:36] [Server thread/INFO]: Villager class_1646['Unemployed'/65663, l='ServerLevel[world]', x=-2635.55, y=-10.00, z=-13910.38] died, message: 'Unemployed burned to death'
+[00:09:39] [Worker-Main-13/ERROR]: Hanging entity at invalid position: class_2338{x=93, y=-18, z=-24}
+[00:09:39] [Worker-Main-13/ERROR]: Hanging entity at invalid position: class_2338{x=95, y=-25, z=-22}
+[00:09:39] [Worker-Main-13/ERROR]: Hanging entity at invalid position: class_2338{x=92, y=-23, z=-26}
+[00:09:48] [Server thread/INFO]: Villager class_1646['Fisherman'/65637, l='ServerLevel[world]', x=-2631.56, y=-12.00, z=-13912.75] died, message: 'Fisherman tried to swim in lava'
+[00:10:06] [Server thread/INFO]: Villager class_1646['Farmer'/65649, l='ServerLevel[world]', x=-2654.66, y=-29.00, z=-13875.16] died, message: 'Farmer was slain by Zombie'
+[00:13:45] [Server thread/WARN]: badbalta moved too quickly! 5.464223647768904,0.0,-8.540065564553515
+[00:13:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12330ms or 246 ticks behind
+[00:13:52] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to 732.500000, 96.000000, -8279.500000]
+[00:14:21] [Server thread/INFO]: Villager class_1646['Farmer'/55987, l='ServerLevel[world]', x=-2170.50, y=-0.44, z=-14376.50] died, message: 'Farmer suffocated in a wall'
+[00:19:55] [Server thread/INFO]: SimonPro74 lost connection: Disconnected
+[00:19:55] [Server thread/INFO]: SimonPro74 left the game
+[00:19:55] [Server thread/INFO]: badbalta lost connection: Disconnected
+[00:19:55] [Server thread/INFO]: badbalta left the game
+[00:20:05] [Server thread/INFO]: [Not Secure] [Server] hola
+[00:20:07] [Server thread/INFO]: Stopping the server
+[00:20:07] [Server thread/INFO]: Stopping server
+[00:20:07] [Server thread/INFO]: Saving players
+[00:20:07] [Server thread/INFO]: Saving worlds
+[00:20:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:20:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:20:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:20:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[00:20:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:20:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:20:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:20:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[00:20:08] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:20:08] [Server thread/INFO]: Unloading server config for barteringstation
+[00:20:08] [Server thread/INFO]: Unloading server config for easyanvils
+[00:20:08] [Server thread/INFO]: Unloading server config for easymagic
+[00:20:08] [Server thread/INFO]: Unloading server config for hangglider
+[00:20:08] [Server thread/INFO]: Unloading server config for iteminteractions
