@@ -878,3 +878,4 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [04:51:22] [Server thread/INFO]: Named entity class_1545['Desert Blaze'/11638, l='ServerLevel[world]', x=-2088.50, y=38.01, z=-14290.70] died: Desert Blaze was slain by badbalta using [Drevol Nâr]
 [04:57:09] [Server thread/INFO]: Villager class_1646['Fletcher'/13138, l='ServerLevel[world]', x=-2170.50, y=-0.44, z=-14376.50] died, message: 'Fletcher suffocated in a wall'
 [05:01:16] [Server thread/INFO]: [Not Secure] [Server] hola
+[06:05:18] [Server thread/INFO]: Named entity class_1545['Desert Blaze'/28609, l='ServerLevel[world]', x=-2100.68, y=38.70, z=-14290.70] died: Desert Blaze was slain by badbalta using [Drevol Nâr]
