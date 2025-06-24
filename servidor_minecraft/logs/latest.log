@@ -862,3 +862,4 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [03:03:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2548ms or 50 ticks behind
 [03:11:28] [Server thread/INFO]: Villager class_1646['Farmer'/699, l='ServerLevel[world]', x=-2170.50, y=-0.44, z=-14376.50] died, message: 'Farmer suffocated in a wall'
 [03:11:29] [Server thread/INFO]: Villager class_1646['Fletcher'/754, l='ServerLevel[world]', x=-2160.50, y=-0.44, z=-14376.50] died, message: 'Fletcher suffocated in a wall'
+[03:24:10] [Server thread/WARN]: Player badbalta just tried to change non-editable sign
