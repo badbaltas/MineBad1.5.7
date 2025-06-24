@@ -1435,3 +1435,31 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [08:04:50] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=27, y=-57, z=8}
 [08:04:50] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=33, y=-58, z=6}
 [08:04:50] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=33, y=-57, z=4}
+[08:08:47] [Server thread/INFO]: Villager class_1646['Farmer'/84802, l='ServerLevel[world]', x=-16542.64, y=-65.00, z=-22748.78] died, message: 'Farmer was killed'
+[08:08:47] [Server thread/INFO]: Villager class_1646['Farmer'/84803, l='ServerLevel[world]', x=-16542.57, y=-65.00, z=-22749.71] died, message: 'Farmer was killed'
+[08:09:09] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-327, y=59, z=-34}
+[08:09:09] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-326, y=59, z=-34}
+[08:09:09] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-325, y=59, z=-33}
+[08:09:39] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=-325, y=59, z=-32}
+[08:09:40] [Server thread/INFO]: Villager class_1646['Farmer'/84967, l='ServerLevel[world]', x=-16553.50, y=-65.00, z=-22749.30] died, message: 'Farmer was killed'
+[08:09:40] [Server thread/INFO]: Villager class_1646['Farmer'/84968, l='ServerLevel[world]', x=-16549.70, y=-65.00, z=-22753.49] died, message: 'Farmer was killed'
+[08:09:40] [Server thread/INFO]: Villager class_1646['Farmer'/84969, l='ServerLevel[world]', x=-16549.30, y=-65.00, z=-22753.49] died, message: 'Farmer was killed'
+[08:09:43] [Server thread/INFO]: Villager class_1646['Toolsmith'/85023, l='ServerLevel[world]', x=-16575.84, y=-65.00, z=-22747.41] died, message: 'Toolsmith was killed'
+[08:09:43] [Server thread/INFO]: Villager class_1646['Librarian'/85024, l='ServerLevel[world]', x=-16574.54, y=-65.00, z=-22747.24] died, message: 'Librarian was killed'
+[08:09:43] [Server thread/INFO]: Villager class_1646['Fisherman'/85031, l='ServerLevel[world]', x=-16572.73, y=-65.00, z=-22752.73] died, message: 'Fisherman was killed'
+[08:10:30] [Server thread/INFO]: Villager class_1646['Unemployed'/85142, l='ServerLevel[world]', x=-16138.70, y=38.05, z=-22970.50] died, message: 'Unemployed drowned'
+[08:11:34] [Server thread/INFO]: Villager class_1646['Leatherworker'/86091, l='ServerLevel[world]', x=-15985.73, y=-65.00, z=-23285.31] died, message: 'Leatherworker was killed'
+[08:14:00] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=203, y=48, z=159}
+[08:14:01] [Worker-Main-2/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[08:14:01] [Worker-Main-2/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[08:14:08] [Server thread/INFO]: Villager class_1646['Leatherworker'/87648, l='ServerLevel[world]', x=-16196.30, y=-65.00, z=-23620.50] died, message: 'Leatherworker was killed'
+[08:14:17] [Server thread/INFO]: Villager class_1646['Leatherworker'/87775, l='ServerLevel[world]', x=-16286.50, y=-65.00, z=-23639.30] died, message: 'Leatherworker was killed'
+[08:15:52] [Server thread/INFO]: Villager class_1646['Leatherworker'/88630, l='ServerLevel[world]', x=-16167.70, y=-65.00, z=-23758.50] died, message: 'Leatherworker was killed'
+[08:16:38] [Server thread/WARN]: Ignoring unknown attribute 'porting_lib:step_height_addition'
+[08:16:38] [Server thread/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[08:16:38] [Server thread/WARN]: Ignoring unknown attribute 'porting_lib:step_height_addition'
+[08:16:38] [Server thread/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[08:16:38] [Server thread/WARN]: Ignoring unknown attribute 'porting_lib:step_height_addition'
+[08:16:38] [Server thread/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[08:16:38] [Server thread/WARN]: Ignoring unknown attribute 'porting_lib:step_height_addition'
+[08:16:38] [Server thread/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
