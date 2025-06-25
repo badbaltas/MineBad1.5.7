@@ -1438,3 +1438,8 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [21:47:58] [Server thread/INFO]: badbalta joined the game
 [21:55:56] [Server thread/INFO]: SimonPro74 lost connection: Timed out
 [21:55:56] [Server thread/INFO]: SimonPro74 left the game
+[21:57:36] [Server thread/INFO]: SimonPro74[/127.43.211.179:32905] logged in with entity id 89269 at (701.3055008996928, 90.0, -8282.77109992744)
+[21:57:36] [Server thread/INFO]: Loading config from file...
+[21:57:36] [Server thread/INFO]: SimonPro74 joined the game
+[21:58:32] [Server thread/INFO]: SimonPro74 lost connection: Disconnected
+[21:58:32] [Server thread/INFO]: SimonPro74 left the game
