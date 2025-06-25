@@ -10627,6 +10627,7 @@
   },
   "hopo:minecraft/adventure/locate_all_underwater_structures": {
     "criteria": {
+      "locate_shipwreck": "2025-06-25 20:14:07 +0000",
       "locate_ruin_warm": "2025-06-25 20:04:50 +0000",
       "locate_underwater_warm_small_ruins": "2025-06-22 07:58:46 +0000"
     },
@@ -11310,15 +11311,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab": {
+    "criteria": {
+      "has_cut_red_sandstone": "2025-06-25 20:21:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/warped_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-06-25 19:01:18 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_cut_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_red_sandstone": "2025-06-25 20:21:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/create_beacon": {
     "criteria": {
       "beacon": "2025-06-25 19:02:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-25 20:22:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_dune_armor_trim_smithing_template": "2025-06-25 20:22:45 +0000"
     },
     "done": true
   },
