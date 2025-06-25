@@ -10642,7 +10642,8 @@
   },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
-      "illager_camp": "2025-06-22 05:27:09 +0000"
+      "illager_camp": "2025-06-22 05:27:09 +0000",
+      "mansion": "2025-06-25 20:34:44 +0000"
     },
     "done": false
   },
@@ -12656,6 +12657,12 @@
   "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
     "criteria": {
       "has_sentry_armor_trim_smithing_template": "2025-06-25 20:19:47 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_illager_mansion": {
+    "criteria": {
+      "minecraft:woodland_mansion": "2025-06-25 20:34:44 +0000"
     },
     "done": true
   },

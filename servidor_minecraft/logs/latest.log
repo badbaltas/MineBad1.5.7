@@ -1382,3 +1382,22 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [20:34:15] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
 [20:34:44] [Server thread/INFO]: badbalta has made the advancement [Deep in the Dark Woodland]
 [20:34:46] [Server thread/INFO]: SimonPro74 has made the advancement [Deep in the Dark Woodland]
+[20:35:38] [Server thread/INFO]: SimonPro74 has reached the goal [Postmortal]
+[20:35:58] [Server thread/INFO]: SimonPro74 was slain by Vindicator
+[20:36:07] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[20:37:52] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[20:39:07] [Server thread/INFO]: SimonPro74 was slain by Vindicator
+[20:39:24] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[20:39:54] [Server thread/INFO]: SimonPro74 lost connection: Timed out
+[20:39:54] [Server thread/INFO]: SimonPro74 left the game
+[20:40:29] [Server thread/INFO]: SimonPro74[/127.43.211.179:52317] logged in with entity id 71089 at (-4873.800323840856, 63.0, -8366.164900406342)
+[20:40:29] [Server thread/INFO]: Loading config from file...
+[20:40:29] [Server thread/INFO]: SimonPro74 joined the game
+[20:40:59] [Server thread/INFO]: SimonPro74 lost connection: Timed out
+[20:40:59] [Server thread/INFO]: SimonPro74 left the game
+[20:41:53] [Server thread/INFO]: SimonPro74[/127.43.211.179:43117] logged in with entity id 71383 at (-4873.800323840856, 63.0, -8366.164900406342)
+[20:41:53] [Server thread/INFO]: Loading config from file...
+[20:41:53] [Server thread/INFO]: SimonPro74 joined the game
+[20:42:23] [Server thread/INFO]: SimonPro74 lost connection: Timed out
+[20:42:23] [Server thread/INFO]: SimonPro74 left the game
+[20:45:02] [Server thread/INFO]: [badbalta: Teleported badbalta to 672.500000, 134.500000, -8711.500000]
