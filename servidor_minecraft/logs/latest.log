@@ -899,3 +899,73 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [19:01:56] [Server thread/INFO]: SimonPro74 fell from a high place
 [19:02:02] [Server thread/INFO]: SimonPro74 has made the advancement [Bring Home the Beacon]
 [19:08:29] [Server thread/INFO]: SimonPro74 fell from a high place
+[19:20:26] [Server thread/INFO]: SimonPro74 was slain by Piglin
+[19:22:21] [Server thread/INFO]: badbalta[/127.43.211.179:36991] logged in with entity id 19032 at (-16640.37592412518, 71.0, -26081.220189314135)
+[19:22:21] [Server thread/INFO]: Loading config from file...
+[19:22:21] [Server thread/INFO]: badbalta joined the game
+[19:23:35] [Server thread/INFO]: Villager class_1646['Cartographer'/19064, l='ServerLevel[world]', x=-16676.48, y=-18.44, z=-26082.50] died, message: 'Cartographer suffocated in a wall'
+[19:23:35] [Server thread/INFO]: Villager class_1646['Cartographer'/19096, l='ServerLevel[world]', x=-16650.50, y=-18.44, z=-26144.50] died, message: 'Cartographer suffocated in a wall'
+[19:23:35] [Server thread/INFO]: Villager class_1646['Cartographer'/19089, l='ServerLevel[world]', x=-16712.50, y=-18.44, z=-26134.50] died, message: 'Cartographer suffocated in a wall'
+[19:25:55] [Server thread/INFO]: Villager class_1646['Fisherman'/19057, l='ServerLevel[world]', x=-16676.50, y=-16.95, z=-26108.51] died, message: 'Fisherman drowned'
+[19:26:47] [Server thread/INFO]: SimonPro74 tried to swim in lava
+[19:28:57] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[19:30:18] [Server thread/INFO]: SimonPro74 was killed
+[19:30:18] [Server thread/INFO]: [badbalta: Killed SimonPro74]
+[19:30:23] [Server thread/INFO]: badbalta lost connection: Disconnected
+[19:30:23] [Server thread/INFO]: badbalta left the game
+[19:31:53] [Server thread/INFO]: [Not Secure] [Server] hola
+[19:32:00] [Server thread/INFO]: badbalta[/127.43.211.179:49817] logged in with entity id 24068 at (-2094.9259260716553, 36.0, -14287.23297356455)
+[19:32:00] [Server thread/INFO]: Loading config from file...
+[19:32:00] [Server thread/INFO]: badbalta joined the game
+[19:43:25] [Server thread/INFO]: [badbalta: Teleported badbalta to SimonPro74]
+[19:43:41] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.2968178335872523
+[19:43:41] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.7966406824630019
+[19:43:41] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 1.2968435928234445
+[19:43:41] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 1.7972633273929273
+[19:43:41] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 2.2978071453209483
+[19:43:41] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 2.798421214971159
+[19:43:41] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 3.299074913669068
+[19:43:41] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 3.7997510352443813
+[19:43:41] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 4.3004399629301195
+[19:43:41] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 4.801136321055842
+[19:43:41] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 5.301837090207678
+[19:47:14] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.25403050087243173
+[19:47:14] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.5595611320486569
+[19:47:14] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.8964771261355285
+[19:47:14] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.25003716513128893
+[19:47:14] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.46817800824157985
+[19:47:16] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved too quickly! -6.633329502665674,1.0,7.810910757140846
+[19:47:17] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 1.293937053411696
+[19:47:17] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 1.293937053411696
+[19:47:17] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 1.293937053411696
+[19:47:18] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 1.293937053411696
+[19:47:18] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 1.2534519639934842
+[19:47:18] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 1.1913041104131707
+[19:47:18] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 1.1175649436387403
+[19:47:32] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved too quickly! 3.814765718376293,5.0,7.790199157349889
+[19:47:32] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved too quickly! 3.9034836767750676,5.0,8.16159873192828
+[19:47:32] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved too quickly! 3.991596383160754,5.0,8.56423712396554
+[19:47:55] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.5779949410815561
+[19:47:55] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.9975037069146993
+[19:47:55] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 1.416502978306653
+[19:47:55] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 1.8517453897381984
+[19:47:55] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 2.2963715857489433
+[19:47:55] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 2.7455179411950894
+[19:47:55] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 3.1931719797547657
+[19:48:15] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved too quickly! 4.768763695597727,0.0,8.80173654441478
+[19:48:15] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved too quickly! 5.0369578335624965,0.0,9.094126733883968
+[19:48:15] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved too quickly! 5.355482836889564,0.0,9.362824553030805
+[19:48:16] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 2.398066595234863
+[19:48:16] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 5.396484375
+[19:48:16] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 5.396484375
+[19:48:16] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 5.396484375
+[19:48:16] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 5.2214647076835945
+[19:48:16] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 4.952795505901918
+[19:48:16] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 4.634016305398177
+[19:48:16] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 4.288424243663826
+[19:48:16] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 3.9284851544757657
+[19:48:16] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 3.561757093833535
+[19:48:16] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 3.1935060311528787
+[19:48:53] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to 732.500000, 96.000000, -8279.500000]
+[19:50:53] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[19:52:36] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
