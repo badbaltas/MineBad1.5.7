@@ -866,3 +866,26 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [17:43:48] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
 [17:43:48] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
 [18:05:28] [Server thread/INFO]: [Not Secure] [Server] hola
+[18:18:41] [Server thread/INFO]: SimonPro74[/127.43.211.179:49227] logged in with entity id 323 at (690.5456628608262, 61.0, -7705.057174914457)
+[18:18:41] [Server thread/INFO]: Loading config from file...
+[18:18:41] [Server thread/INFO]: SimonPro74 joined the game
+[18:18:42] [Server thread/INFO]: badbalta[/127.43.211.179:60043] logged in with entity id 324 at (-16640.28702316981, 72.5, -26078.55676927705)
+[18:18:42] [Server thread/INFO]: Loading config from file...
+[18:18:42] [Server thread/INFO]: badbalta joined the game
+[18:18:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2999ms or 59 ticks behind
+[18:18:45] [Server thread/INFO]: Villager class_1646['Toolsmith'/371, l='ServerLevel[world]', x=-16676.50, y=-18.44, z=-26082.50] died, message: 'Toolsmith suffocated in a wall'
+[18:18:46] [Server thread/INFO]: Villager class_1646['Unemployed'/454, l='ServerLevel[world]', x=-16702.35, y=-18.44, z=-26118.30] died, message: 'Unemployed suffocated in a wall'
+[18:18:50] [Server thread/INFO]: Villager class_1646['Unemployed'/634, l='ServerLevel[world]', x=-16650.49, y=-18.44, z=-26144.49] died, message: 'Unemployed suffocated in a wall'
+[18:20:18] [Server thread/INFO]: badbalta lost connection: Disconnected
+[18:20:18] [Server thread/INFO]: badbalta left the game
+[18:21:39] [Server thread/INFO]: badbalta[/127.43.211.179:46113] logged in with entity id 1460 at (-16640.37592412518, 71.0, -26081.220189314135)
+[18:21:39] [Server thread/INFO]: Loading config from file...
+[18:21:39] [Server thread/INFO]: badbalta joined the game
+[18:22:46] [Server thread/INFO]: badbalta lost connection: Disconnected
+[18:22:46] [Server thread/INFO]: badbalta left the game
+[18:30:42] [Server thread/INFO]: SimonPro74 lost connection: Disconnected
+[18:30:42] [Server thread/INFO]: SimonPro74 left the game
+[18:30:59] [Server thread/INFO]: [Not Secure] [Server] hola
+[18:32:21] [Server thread/INFO]: SimonPro74[/127.43.211.179:33697] logged in with entity id 3010 at (687.6684772292713, 61.0, -7698.257203561953)
+[18:32:21] [Server thread/INFO]: Loading config from file...
+[18:32:22] [Server thread/INFO]: SimonPro74 joined the game

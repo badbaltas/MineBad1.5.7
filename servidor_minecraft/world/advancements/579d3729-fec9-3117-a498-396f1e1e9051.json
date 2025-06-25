@@ -12364,78 +12364,47 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:adventure/totem_of_undying": {
     "criteria": {
-      "log_spam_fixer": "2025-06-24 08:52:22 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-06-24 08:52:30 +0000",
-      "log_spam_fixer": "2025-06-24 08:52:22 +0000"
+      "used_totem": "2025-06-24 04:38:25 +0000"
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:recipes/misc/tide_armor_trim_smithing_template": {
     "criteria": {
-      "log_spam_fixer": "2025-06-24 08:52:22 +0000"
+      "has_tide_armor_trim_smithing_template": "2025-06-24 05:30:11 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/misc/tide_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "log_spam_fixer": "2025-06-24 08:52:22 +0000"
+      "has_smithing_trim_template": "2025-06-24 05:30:11 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_honeycomb": {
     "criteria": {
-      "log_spam_fixer": "2025-06-24 08:52:22 +0000"
+      "has_oxidized_cut_copper_stairs": "2025-06-24 06:39:27 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
     "criteria": {
-      "log_spam_fixer": "2025-06-24 08:52:22 +0000"
+      "has_wild_armor_trim_smithing_template": "2025-06-24 06:52:04 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "log_spam_fixer": "2025-06-24 08:52:22 +0000"
+      "has_smithing_trim_template": "2025-06-24 06:52:04 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "totw_modded:regular_tower": {
     "criteria": {
-      "log_spam_fixer": "2025-06-24 08:52:22 +0000"
+      "regular": "2025-06-24 07:13:07 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-24 08:52:22 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-24 08:52:22 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-24 08:52:22 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-24 08:52:22 +0000"
-    },
-    "done": false
+    "done": true
   },
   "stoneworks:recipes/building_blocks/polished_calcite_slab_from_calcite_stonecutting": {
     "criteria": {
@@ -12446,12 +12415,6 @@
   "stoneworks:recipes/building_blocks/polished_calcite_wall_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-06-24 08:05:15 +0000"
-    },
-    "done": true
-  },
-  "totw_modded:regular_tower": {
-    "criteria": {
-      "regular": "2025-06-24 07:13:07 +0000"
     },
     "done": true
   },
@@ -12503,12 +12466,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/tide_armor_trim_smithing_template": {
-    "criteria": {
-      "has_tide_armor_trim_smithing_template": "2025-06-24 05:30:11 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/calcite_brick_stairs_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-06-24 08:05:15 +0000"
@@ -12554,12 +12511,6 @@
   "stoneworks:recipes/building_blocks/calcite_plate_wall_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-06-24 08:05:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/tide_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-06-24 05:30:11 +0000"
     },
     "done": true
   },
@@ -12641,21 +12592,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/totem_of_undying": {
-    "criteria": {
-      "used_totem": "2025-06-24 04:38:25 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/calcite_pavers_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-06-24 08:05:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_honeycomb": {
-    "criteria": {
-      "has_oxidized_cut_copper_stairs": "2025-06-24 06:39:27 +0000"
     },
     "done": true
   },
@@ -12668,18 +12607,6 @@
   "stoneworks:recipes/building_blocks/calcite_shingles_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-06-24 08:05:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
-    "criteria": {
-      "has_wild_armor_trim_smithing_template": "2025-06-24 06:52:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-06-24 06:52:04 +0000"
     },
     "done": true
   },
@@ -12701,12 +12628,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/salvage_sherd": {
-    "criteria": {
-      "has_sherd": "2025-06-24 08:30:52 +0000"
-    },
-    "done": false
-  },
   "stoneworks:recipes/building_blocks/cracked_calcite_bricks_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-06-24 08:05:15 +0000"
@@ -12724,6 +12645,84 @@
       "has_calcite": "2025-06-24 08:05:15 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-06-24 08:30:52 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-25 18:21:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-25 18:21:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-25 18:21:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-25 18:21:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-25 18:21:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-25 18:21:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-25 18:21:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-25 18:21:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-25 18:21:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-25 18:21:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-25 18:21:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-25 18:21:51 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3700
 }
