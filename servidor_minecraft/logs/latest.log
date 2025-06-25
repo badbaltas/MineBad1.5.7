@@ -1428,3 +1428,13 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [21:45:20] [Server thread/INFO]: SAY HOLA<--[HERE]
 [21:45:23] [Server thread/INFO]: [Not Secure] [Server] hola
 [21:45:55] [Server thread/INFO]: com.mojang.authlib.GameProfile@365bd29c[id=2443d009-a4b6-3027-9a02-688c0f537c7c,name=SimonPro74,properties={}] lost connection: Timed out
+[21:46:40] [Server thread/INFO]: SimonPro74[/127.43.211.179:38877] logged in with entity id 83857 at (732.5, 96.0, -8279.5)
+[21:46:40] [Server thread/INFO]: Loading config from file...
+[21:46:40] [Server thread/INFO]: SimonPro74 joined the game
+[21:46:54] [Server thread/WARN]: SimonPro74 moved too quickly! 1.9697621746989853,-0.36809686001799946,-10.13774619959986
+[21:47:10] [Server thread/WARN]: SimonPro74 moved too quickly! -5.408913057749487,0.0625,-8.49033540011078
+[21:47:58] [Server thread/INFO]: badbalta[/127.43.211.179:48007] logged in with entity id 84657 at (656.8161183266454, 141.0, -8702.072929043497)
+[21:47:58] [Server thread/INFO]: Loading config from file...
+[21:47:58] [Server thread/INFO]: badbalta joined the game
+[21:55:56] [Server thread/INFO]: SimonPro74 lost connection: Timed out
+[21:55:56] [Server thread/INFO]: SimonPro74 left the game
