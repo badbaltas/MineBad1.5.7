@@ -865,3 +865,4 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [17:43:48] [Server thread/INFO]: Start loading plugin from Waystones
 [17:43:48] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
 [17:43:48] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
+[18:05:28] [Server thread/INFO]: [Not Secure] [Server] hola
