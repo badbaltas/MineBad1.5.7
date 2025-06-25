@@ -1402,3 +1402,5 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [20:42:23] [Server thread/INFO]: SimonPro74 left the game
 [20:45:02] [Server thread/INFO]: [badbalta: Teleported badbalta to 672.500000, 134.500000, -8711.500000]
 [21:02:42] [Server thread/INFO]: [Not Secure] [Server] hola
+[21:36:05] [Server thread/INFO]: com.mojang.authlib.GameProfile@2580814e[id=2443d009-a4b6-3027-9a02-688c0f537c7c,name=SimonPro74,properties={}] lost connection: Timed out
+[21:36:05] [Server thread/WARN]: handleDisconnection() called twice
