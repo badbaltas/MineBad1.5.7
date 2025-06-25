@@ -890,3 +890,11 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [18:32:21] [Server thread/INFO]: Loading config from file...
 [18:32:22] [Server thread/INFO]: SimonPro74 joined the game
 [18:35:08] [Server thread/INFO]: SimonPro74 drowned while trying to escape Drowned
+[18:55:23] [Server thread/INFO]: SimonPro74 lost connection: Timed out
+[18:55:23] [Server thread/INFO]: SimonPro74 left the game
+[18:55:23] [Server thread/WARN]: handleDisconnection() called twice
+[18:55:43] [Server thread/INFO]: SimonPro74[/127.43.211.179:48655] logged in with entity id 12191 at (745.1916094647878, 95.0, -8275.009266638253)
+[18:55:43] [Server thread/INFO]: Loading config from file...
+[18:55:43] [Server thread/INFO]: SimonPro74 joined the game
+[19:01:56] [Server thread/INFO]: SimonPro74 fell from a high place
+[19:02:02] [Server thread/INFO]: SimonPro74 has made the advancement [Bring Home the Beacon]
