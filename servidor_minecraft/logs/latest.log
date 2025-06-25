@@ -969,3 +969,77 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [19:48:53] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to 732.500000, 96.000000, -8279.500000]
 [19:50:53] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
 [19:52:36] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[19:56:43] [Server thread/WARN]: SimonPro74 moved too quickly! -2.753419175042609,-0.5800000131130219,-9.700459629739271
+[19:56:49] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[19:57:27] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[19:57:46] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[19:58:06] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[19:58:13] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=27, y=-58, z=9}
+[19:58:13] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=27, y=-57, z=8}
+[19:58:13] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=33, y=-58, z=6}
+[19:58:13] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=33, y=-57, z=4}
+[19:58:35] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[20:00:07] [Server thread/INFO]: Villager class_1646['Mason'/41920, l='ServerLevel[world]', x=-696.61, y=-65.00, z=-8425.73] died, message: 'Mason was killed'
+[20:00:07] [Server thread/INFO]: Villager class_1646['Fletcher'/41922, l='ServerLevel[world]', x=-684.15, y=-65.00, z=-8424.58] died, message: 'Fletcher was killed'
+[20:00:15] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[20:01:01] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[20:01:26] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[20:01:32] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=-118, y=-12, z=15}
+[20:01:36] [Server thread/INFO]: Villager class_1646['Armorer'/42983, l='ServerLevel[world]', x=-441.28, y=-65.00, z=-7842.75] died, message: 'Armorer was killed'
+[20:01:36] [Server thread/INFO]: Villager class_1646['Armorer'/42987, l='ServerLevel[world]', x=-455.72, y=-65.00, z=-7844.25] died, message: 'Armorer was killed'
+[20:02:19] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[20:02:25] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[20:02:37] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[20:03:19] [Server thread/INFO]: [badbalta: Teleported badbalta to -265.500000, 65.500000, -8416.500000]
+[20:03:24] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[20:04:01] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[20:05:17] [Server thread/INFO]: SimonPro74 drowned
+[20:05:45] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[20:06:33] [Server thread/INFO]: Villager class_1646['Armorer'/46916, l='ServerLevel[world]', x=-652.28, y=-65.00, z=-8444.62] died, message: 'Armorer was killed'
+[20:06:33] [Server thread/INFO]: Villager class_1646['Fletcher'/46917, l='ServerLevel[world]', x=-643.04, y=-65.00, z=-8465.56] died, message: 'Fletcher was killed'
+[20:07:00] [Server thread/INFO]: Villager class_1646['Armorer'/47195, l='ServerLevel[world]', x=-669.72, y=-65.00, z=-8441.09] died, message: 'Armorer was killed'
+[20:07:00] [Server thread/INFO]: Villager class_1646['Fletcher'/47202, l='ServerLevel[world]', x=-660.52, y=-65.00, z=-8472.76] died, message: 'Fletcher was killed'
+[20:07:00] [Server thread/INFO]: Villager class_1646['Fletcher'/47207, l='ServerLevel[world]', x=-657.22, y=-65.00, z=-8484.47] died, message: 'Fletcher was killed'
+[20:07:28] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[20:09:17] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[20:09:47] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[20:10:35] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[20:11:59] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[20:12:42] [Server thread/INFO]: Villager class_1646['Farmer'/50037, l='ServerLevel[world]', x=-1594.64, y=-65.00, z=-8323.78] died, message: 'Farmer was killed'
+[20:12:42] [Server thread/INFO]: Villager class_1646['Farmer'/50038, l='ServerLevel[world]', x=-1594.57, y=-65.00, z=-8324.71] died, message: 'Farmer was killed'
+[20:12:46] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=-327, y=59, z=-34}
+[20:12:46] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=-326, y=59, z=-34}
+[20:12:46] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=-325, y=59, z=-33}
+[20:12:46] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=-325, y=59, z=-32}
+[20:12:47] [Server thread/INFO]: Villager class_1646['Farmer'/50130, l='ServerLevel[world]', x=-1605.50, y=-65.00, z=-8324.30] died, message: 'Farmer was killed'
+[20:12:47] [Server thread/INFO]: Villager class_1646['Farmer'/50131, l='ServerLevel[world]', x=-1601.70, y=-65.00, z=-8328.49] died, message: 'Farmer was killed'
+[20:12:47] [Server thread/INFO]: Villager class_1646['Farmer'/50132, l='ServerLevel[world]', x=-1601.30, y=-65.00, z=-8328.49] died, message: 'Farmer was killed'
+[20:12:51] [Worker-Main-4/ERROR]: Hanging entity at invalid position: class_2338{x=-327, y=59, z=-34}
+[20:12:51] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=-326, y=59, z=-34}
+[20:12:51] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=-325, y=59, z=-33}
+[20:12:51] [Server thread/INFO]: Villager class_1646['Fisherman'/50213, l='ServerLevel[world]', x=-1626.27, y=-65.00, z=-8293.27] died, message: 'Fisherman was killed'
+[20:12:51] [Server thread/INFO]: Villager class_1646['Toolsmith'/50217, l='ServerLevel[world]', x=-1623.16, y=-65.00, z=-8298.59] died, message: 'Toolsmith was killed'
+[20:12:51] [Server thread/INFO]: Villager class_1646['Shepherd'/50218, l='ServerLevel[world]', x=-1621.50, y=-65.00, z=-8300.30] died, message: 'Shepherd was killed'
+[20:12:51] [Server thread/INFO]: Villager class_1646['Librarian'/50219, l='ServerLevel[world]', x=-1624.46, y=-65.00, z=-8298.76] died, message: 'Librarian was killed'
+[20:12:51] [Server thread/INFO]: Villager class_1646['Fisherman'/50221, l='ServerLevel[world]', x=-1626.93, y=-65.00, z=-8319.99] died, message: 'Fisherman was killed'
+[20:12:51] [Server thread/INFO]: Villager class_1646['Leatherworker'/50228, l='ServerLevel[world]', x=-1625.69, y=-65.00, z=-8344.73] died, message: 'Leatherworker was killed'
+[20:12:55] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=-325, y=59, z=-32}
+[20:12:55] [Server thread/INFO]: Villager class_1646['Fisherman'/50282, l='ServerLevel[world]', x=-1647.27, y=-65.00, z=-8322.73] died, message: 'Fisherman was killed'
+[20:12:56] [Server thread/INFO]: Villager class_1646['Farmer'/50312, l='ServerLevel[world]', x=-1646.51, y=-65.00, z=-8299.70] died, message: 'Farmer was killed'
+[20:12:56] [Server thread/INFO]: Villager class_1646['Farmer'/50313, l='ServerLevel[world]', x=-1646.51, y=-65.00, z=-8299.30] died, message: 'Farmer was killed'
+[20:13:00] [Server thread/INFO]: Villager class_1646['Toolsmith'/50361, l='ServerLevel[world]', x=-1652.59, y=-65.00, z=-8325.84] died, message: 'Toolsmith was killed'
+[20:13:00] [Server thread/INFO]: Villager class_1646['Shepherd'/50362, l='ServerLevel[world]', x=-1654.30, y=-65.00, z=-8327.50] died, message: 'Shepherd was killed'
+[20:13:00] [Server thread/INFO]: Villager class_1646['Librarian'/50363, l='ServerLevel[world]', x=-1652.76, y=-65.00, z=-8324.54] died, message: 'Librarian was killed'
+[20:13:00] [Server thread/INFO]: Villager class_1646['Farmer'/50366, l='ServerLevel[world]', x=-1651.22, y=-65.00, z=-8292.64] died, message: 'Farmer was killed'
+[20:13:00] [Server thread/INFO]: Villager class_1646['Farmer'/50367, l='ServerLevel[world]', x=-1650.29, y=-65.00, z=-8292.57] died, message: 'Farmer was killed'
+[20:13:00] [Server thread/INFO]: Villager class_1646['Farmer'/50368, l='ServerLevel[world]', x=-1650.70, y=-65.00, z=-8303.50] died, message: 'Farmer was killed'
+[20:13:14] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[20:13:20] [Worker-Main-8/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:13:20] [Worker-Main-8/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:13:20] [Worker-Main-8/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:13:20] [Worker-Main-8/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:13:20] [Worker-Main-8/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:13:20] [Worker-Main-8/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:13:20] [Worker-Main-8/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:13:20] [Worker-Main-8/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:13:25] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'

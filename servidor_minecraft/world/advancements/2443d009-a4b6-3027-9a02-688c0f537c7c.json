@@ -10627,6 +10627,7 @@
   },
   "hopo:minecraft/adventure/locate_all_underwater_structures": {
     "criteria": {
+      "locate_ruin_warm": "2025-06-25 20:04:50 +0000",
       "locate_underwater_warm_small_ruins": "2025-06-22 07:58:46 +0000"
     },
     "done": false
