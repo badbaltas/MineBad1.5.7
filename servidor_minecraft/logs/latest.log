@@ -1404,3 +1404,27 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [21:02:42] [Server thread/INFO]: [Not Secure] [Server] hola
 [21:36:05] [Server thread/INFO]: com.mojang.authlib.GameProfile@2580814e[id=2443d009-a4b6-3027-9a02-688c0f537c7c,name=SimonPro74,properties={}] lost connection: Timed out
 [21:36:05] [Server thread/WARN]: handleDisconnection() called twice
+[21:36:41] [Server thread/INFO]: SimonPro74[/127.43.211.179:33949] logged in with entity id 79980 at (-4873.800323840856, 63.0, -8366.164900406342)
+[21:36:41] [Server thread/INFO]: Loading config from file...
+[21:36:41] [Server thread/INFO]: SimonPro74 joined the game
+[21:37:26] [Server thread/INFO]: SimonPro74 lost connection: Timed out
+[21:37:26] [Server thread/INFO]: SimonPro74 left the game
+[21:39:08] [Server thread/INFO]: com.mojang.authlib.GameProfile@379c3143[id=2443d009-a4b6-3027-9a02-688c0f537c7c,name=SimonPro74,properties={}] lost connection: Timed out
+[21:40:58] [Server thread/INFO]: SimonPro74[/127.43.211.179:43853] logged in with entity id 81499 at (-4873.800323840856, 63.0, -8366.164900406342)
+[21:40:58] [Server thread/INFO]: Loading config from file...
+[21:40:58] [Server thread/INFO]: SimonPro74 joined the game
+[21:41:02] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to 732.500000, 96.000000, -8279.500000]
+[21:42:13] [Server thread/INFO]: SimonPro74 lost connection: Timed out
+[21:42:13] [Server thread/INFO]: SimonPro74 left the game
+[21:43:23] [Server thread/INFO]: com.mojang.authlib.GameProfile@14b51917[id=2443d009-a4b6-3027-9a02-688c0f537c7c,name=SimonPro74,properties={}] lost connection: Disconnected
+[21:44:33] [Server thread/INFO]: SimonPro74[/127.43.211.179:55261] logged in with entity id 83419 at (732.5, 96.0, -8279.5)
+[21:44:33] [Server thread/INFO]: Loading config from file...
+[21:44:33] [Server thread/INFO]: SimonPro74 joined the game
+[21:45:03] [Server thread/INFO]: SimonPro74 lost connection: Timed out
+[21:45:03] [Server thread/INFO]: SimonPro74 left the game
+[21:45:12] [Server thread/INFO]: badbalta lost connection: Disconnected
+[21:45:12] [Server thread/INFO]: badbalta left the game
+[21:45:20] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[21:45:20] [Server thread/INFO]: SAY HOLA<--[HERE]
+[21:45:23] [Server thread/INFO]: [Not Secure] [Server] hola
+[21:45:55] [Server thread/INFO]: com.mojang.authlib.GameProfile@365bd29c[id=2443d009-a4b6-3027-9a02-688c0f537c7c,name=SimonPro74,properties={}] lost connection: Timed out
