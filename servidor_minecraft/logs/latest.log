@@ -1445,3 +1445,29 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [21:58:32] [Server thread/INFO]: SimonPro74 left the game
 [22:16:30] [Server thread/INFO]: badbalta lost connection: Timed out
 [22:16:30] [Server thread/INFO]: badbalta left the game
+[22:17:08] [Server thread/INFO]: [Not Secure] [Server] hsay hola
+[22:17:57] [Server thread/INFO]: com.mojang.authlib.GameProfile@5e731a88[id=579d3729-fec9-3117-a498-396f1e1e9051,name=badbalta,properties={}] lost connection: Timed out
+[22:19:12] [Server thread/INFO]: badbalta[/127.43.211.179:55653] logged in with entity id 94779 at (489.04214641967155, 66.0, -8761.969402094248)
+[22:19:12] [Server thread/INFO]: Loading config from file...
+[22:19:12] [Server thread/INFO]: badbalta joined the game
+[22:19:43] [Server thread/INFO]: badbalta lost connection: Timed out
+[22:19:43] [Server thread/INFO]: badbalta left the game
+[22:20:29] [Server thread/INFO]: [Not Secure] [Server] hola
+[22:20:31] [Server thread/INFO]: Stopping the server
+[22:20:31] [Server thread/INFO]: Stopping server
+[22:20:31] [Server thread/INFO]: Saving players
+[22:20:31] [Server thread/INFO]: Saving worlds
+[22:20:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:20:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[22:20:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:20:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:20:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:20:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[22:20:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:20:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:20:32] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:20:32] [Server thread/INFO]: Unloading server config for barteringstation
+[22:20:32] [Server thread/INFO]: Unloading server config for easyanvils
+[22:20:32] [Server thread/INFO]: Unloading server config for easymagic
+[22:20:32] [Server thread/INFO]: Unloading server config for hangglider
+[22:20:32] [Server thread/INFO]: Unloading server config for iteminteractions
