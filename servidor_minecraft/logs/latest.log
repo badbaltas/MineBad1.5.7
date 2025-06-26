@@ -880,3 +880,24 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [21:30:10] [Server thread/INFO]: badbalta joined the game
 [21:39:59] [Server thread/WARN]: badbalta moved too quickly! 3.416052301733089,-1.0244240882136637,9.367858577688821
 [21:47:31] [Server thread/WARN]: badbalta moved too quickly! 0.45656315126052505,1.2491870787446828,10.217605416888546
+[21:57:32] [Server thread/INFO]: badbalta lost connection: Disconnected
+[21:57:32] [Server thread/INFO]: badbalta left the game
+[21:57:59] [Server thread/INFO]: [Not Secure] [Server] hola
+[21:58:02] [Server thread/INFO]: Stopping the server
+[21:58:02] [Server thread/INFO]: Stopping server
+[21:58:02] [Server thread/INFO]: Saving players
+[21:58:02] [Server thread/INFO]: Saving worlds
+[21:58:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:58:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:58:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[21:58:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:58:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:58:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:58:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[21:58:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:58:02] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:58:02] [Server thread/INFO]: Unloading server config for barteringstation
+[21:58:02] [Server thread/INFO]: Unloading server config for easyanvils
+[21:58:02] [Server thread/INFO]: Unloading server config for easymagic
+[21:58:02] [Server thread/INFO]: Unloading server config for hangglider
+[21:58:02] [Server thread/INFO]: Unloading server config for iteminteractions
