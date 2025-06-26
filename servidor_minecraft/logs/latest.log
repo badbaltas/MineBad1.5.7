@@ -871,3 +871,11 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [20:14:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3534ms or 70 ticks behind
 [20:51:13] [Server thread/INFO]: [Not Secure] [Server] hola
 [20:52:44] [Server thread/INFO]: [badbalta: Set the weather to clear]
+[21:29:40] [Server thread/INFO]: badbalta lost connection: Timed out
+[21:29:40] [Server thread/INFO]: badbalta left the game
+[21:29:40] [Server thread/WARN]: handleDisconnection() called twice
+[21:29:56] [Server thread/INFO]: [Not Secure] [Server] hola
+[21:30:10] [Server thread/INFO]: badbalta[/127.58.111.109:58307] logged in with entity id 9557 at (693.4341633324705, 135.0, -8706.300000011921)
+[21:30:10] [Server thread/INFO]: Loading config from file...
+[21:30:10] [Server thread/INFO]: badbalta joined the game
+[21:39:59] [Server thread/WARN]: badbalta moved too quickly! 3.416052301733089,-1.0244240882136637,9.367858577688821
