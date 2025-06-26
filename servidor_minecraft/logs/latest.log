@@ -858,3 +858,19 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [22:43:45] [Server thread/INFO]: SimonPro74[/127.58.111.109:50313] logged in with entity id 226 at (604.9522840723091, 71.0, -8748.517342188106)
 [22:43:45] [Server thread/INFO]: Loading config from file...
 [22:43:45] [Server thread/INFO]: SimonPro74 joined the game
+[22:46:18] [Server thread/INFO]: badbalta[/127.58.111.109:41621] logged in with entity id 785 at (670.5164194337736, 140.0, -8716.282110931394)
+[22:46:18] [Server thread/INFO]: Loading config from file...
+[22:46:18] [Server thread/INFO]: badbalta joined the game
+[22:46:47] [Server thread/WARN]: badbalta moved too quickly! 4.411488289514523,0.0,9.144033550193853
+[22:47:06] [Server thread/INFO]: SimonPro74 lost connection: Disconnected
+[22:47:06] [Server thread/INFO]: SimonPro74 left the game
+[22:47:19] [Server thread/INFO]: SimonPro74[/127.58.111.109:41019] logged in with entity id 1097 at (605.3000000119209, 72.0, -8728.79831054071)
+[22:47:19] [Server thread/INFO]: Loading config from file...
+[22:47:19] [Server thread/INFO]: SimonPro74 joined the game
+[22:47:34] [Server thread/INFO]: badbalta lost connection: Timed out
+[22:47:34] [Server thread/INFO]: badbalta left the game
+[22:47:34] [Server thread/WARN]: handleDisconnection() called twice
+[22:51:35] [Server thread/INFO]: [Not Secure] [Server] hola
+[22:51:55] [Server thread/INFO]: badbalta[/127.58.111.109:55675] logged in with entity id 1710 at (650.8896997386506, 142.0, -8712.537504704942)
+[22:51:55] [Server thread/INFO]: Loading config from file...
+[22:51:55] [Server thread/INFO]: badbalta joined the game
