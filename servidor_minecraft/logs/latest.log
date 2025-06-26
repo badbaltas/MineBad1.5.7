@@ -879,3 +879,4 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [21:30:10] [Server thread/INFO]: Loading config from file...
 [21:30:10] [Server thread/INFO]: badbalta joined the game
 [21:39:59] [Server thread/WARN]: badbalta moved too quickly! 3.416052301733089,-1.0244240882136637,9.367858577688821
+[21:47:31] [Server thread/WARN]: badbalta moved too quickly! 0.45656315126052505,1.2491870787446828,10.217605416888546
