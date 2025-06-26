@@ -875,3 +875,4 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [22:51:55] [Server thread/INFO]: Loading config from file...
 [22:51:55] [Server thread/INFO]: badbalta joined the game
 [22:58:27] [Server thread/INFO]: [badbalta: Set the weather to clear]
+[23:11:38] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to 732.500000, 96.000000, -8279.500000]
