@@ -898,3 +898,5 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [20:29:50] [Server thread/INFO]: Loading config from file...
 [20:29:50] [Server thread/INFO]: SimonPro74 joined the game
 [20:49:42] [Server thread/WARN]: SimonPro74 moved wrongly!
+[21:06:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9567ms or 191 ticks behind
+[21:20:18] [Server thread/INFO]: SimonPro74 was slain by Piglin Brute

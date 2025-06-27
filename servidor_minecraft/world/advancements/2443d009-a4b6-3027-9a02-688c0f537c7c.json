@@ -11427,5 +11427,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-06-27 21:09:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-06-27 21:09:19 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3700
 }
