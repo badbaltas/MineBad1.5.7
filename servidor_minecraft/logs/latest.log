@@ -1,2 +1,23 @@
 [00:13:42] [Server thread/INFO]: [badbalta: Teleported badbalta to 672.500000, 134.500000, -8711.500000]
 [00:18:06] [Server thread/INFO]: [Not Secure] [Server] hola
+[00:29:56] [Server thread/INFO]: badbalta lost connection: Disconnected
+[00:29:56] [Server thread/INFO]: badbalta left the game
+[00:30:19] [Server thread/INFO]: [Not Secure] [Server] hola
+[00:30:21] [Server thread/INFO]: Stopping the server
+[00:30:21] [Server thread/INFO]: Stopping server
+[00:30:21] [Server thread/INFO]: Saving players
+[00:30:21] [Server thread/INFO]: Saving worlds
+[00:30:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:30:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:30:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[00:30:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:30:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:30:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:30:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[00:30:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:30:21] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:30:21] [Server thread/INFO]: Unloading server config for barteringstation
+[00:30:21] [Server thread/INFO]: Unloading server config for easyanvils
+[00:30:21] [Server thread/INFO]: Unloading server config for easymagic
+[00:30:21] [Server thread/INFO]: Unloading server config for hangglider
+[00:30:21] [Server thread/INFO]: Unloading server config for iteminteractions
