@@ -864,3 +864,6 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [18:30:51] [Server thread/INFO]: Loading config from file...
 [18:30:51] [Server thread/INFO]: SimonPro74 joined the game
 [18:39:16] [Server thread/INFO]: Villager class_1646['Unemployed'/1880, l='ServerLevel[world]', x=495.30, y=65.50, z=-8746.30] died, message: 'Unemployed was squished too much'
+[18:42:40] [Server thread/INFO]: Villager class_1646['Unemployed'/1876, l='ServerLevel[world]', x=495.30, y=65.50, z=-8746.30] died, message: 'Unemployed was squished too much'
+[18:42:52] [Server thread/INFO]: Villager class_1646['Unemployed'/1890, l='ServerLevel[world]', x=495.30, y=65.50, z=-8746.30] died, message: 'Unemployed was squished too much'
+[18:47:24] [Server thread/INFO]: Villager class_1646['Unemployed'/1877, l='ServerLevel[world]', x=495.30, y=65.50, z=-8746.30] died, message: 'Unemployed was squished too much'
