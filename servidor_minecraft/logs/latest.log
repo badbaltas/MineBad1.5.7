@@ -882,3 +882,9 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [19:19:48] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.7431323231535316
 [19:19:48] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.7462389759857615
 [19:19:48] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.7462389759857615
+[19:26:49] [Server thread/INFO]: SimonPro74 lost connection: Disconnected
+[19:26:49] [Server thread/INFO]: SimonPro74 left the game
+[19:30:04] [Server thread/INFO]: SimonPro74[/127.48.220.119:54003] logged in with entity id 16781 at (604.8317730637392, 71.0, -8743.000019671224)
+[19:30:04] [Server thread/INFO]: Loading config from file...
+[19:30:04] [Server thread/INFO]: SimonPro74 joined the game
+[19:32:33] [Server thread/INFO]: Villager class_1646['Unemployed'/16943, l='ServerLevel[world]', x=495.30, y=65.50, z=-8746.30] died, message: 'Unemployed was squished too much'
