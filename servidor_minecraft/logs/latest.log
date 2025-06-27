@@ -900,3 +900,10 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [20:49:42] [Server thread/WARN]: SimonPro74 moved wrongly!
 [21:06:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9567ms or 191 ticks behind
 [21:20:18] [Server thread/INFO]: SimonPro74 was slain by Piglin Brute
+[21:32:53] [Server thread/INFO]: SimonPro74 lost connection: Disconnected
+[21:32:53] [Server thread/INFO]: SimonPro74 left the game
+[21:33:03] [Server thread/INFO]: [Not Secure] [Server] hola
+[21:33:08] [Server thread/INFO]: SimonPro74[/127.48.220.119:47047] logged in with entity id 42404 at (616.5745814668188, 71.0, -8739.050277727434)
+[21:33:08] [Server thread/INFO]: Loading config from file...
+[21:33:08] [Server thread/INFO]: SimonPro74 joined the game
+[21:40:13] [Server thread/INFO]: Villager class_1646['Unemployed'/42566, l='ServerLevel[world]', x=495.70, y=65.50, z=-8746.30] died, message: 'Unemployed was squished too much'
