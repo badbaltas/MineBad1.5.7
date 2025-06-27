@@ -867,3 +867,7 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [18:42:40] [Server thread/INFO]: Villager class_1646['Unemployed'/1876, l='ServerLevel[world]', x=495.30, y=65.50, z=-8746.30] died, message: 'Unemployed was squished too much'
 [18:42:52] [Server thread/INFO]: Villager class_1646['Unemployed'/1890, l='ServerLevel[world]', x=495.30, y=65.50, z=-8746.30] died, message: 'Unemployed was squished too much'
 [18:47:24] [Server thread/INFO]: Villager class_1646['Unemployed'/1877, l='ServerLevel[world]', x=495.30, y=65.50, z=-8746.30] died, message: 'Unemployed was squished too much'
+[19:05:53] [Server thread/INFO]: SimonPro74 fell off some vines
+[19:07:35] [Server thread/INFO]: Teleported SimonPro74 to 95.500000, 100.000000, -8287.500000
+[19:08:48] [Server thread/INFO]: Teleported SimonPro74 to 715.500000, 95.000000, -8287.500000
+[19:10:15] [Server thread/INFO]: [Not Secure] <SimonPro74> DD
