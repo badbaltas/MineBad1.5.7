@@ -879,6 +879,7 @@
       "porkchop": "2025-06-03 22:00:01 +0000",
       "golden_carrot": "2025-06-23 18:49:10 +0000",
       "apple": "2025-06-03 20:51:46 +0000",
+      "spider_eye": "2025-06-27 20:26:40 +0000",
       "potato": "2025-06-03 21:17:29 +0000"
     },
     "done": false
@@ -11408,12 +11409,6 @@
     },
     "done": true
   },
-  "minecraft:husbandry/axolotl_in_a_bucket": {
-    "criteria": {
-      "axolotl_bucket": "2025-06-27 20:16:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
     "criteria": {
       "has_diamond_ore": "2025-06-27 20:12:53 +0000"
@@ -11423,6 +11418,12 @@
   "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
     "criteria": {
       "has_diamond_ore": "2025-06-27 20:12:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-06-27 20:16:38 +0000"
     },
     "done": true
   },
