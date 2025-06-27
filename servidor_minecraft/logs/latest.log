@@ -863,3 +863,4 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [18:30:51] [Server thread/INFO]: SimonPro74[/127.48.220.119:38235] logged in with entity id 607 at (599.5279390833971, 71.0, -8741.689476900532)
 [18:30:51] [Server thread/INFO]: Loading config from file...
 [18:30:51] [Server thread/INFO]: SimonPro74 joined the game
+[18:39:16] [Server thread/INFO]: Villager class_1646['Unemployed'/1880, l='ServerLevel[world]', x=495.30, y=65.50, z=-8746.30] died, message: 'Unemployed was squished too much'
